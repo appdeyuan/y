@@ -9,3 +9,850 @@ Amazon,全球最大电商平台,https://www.amazon.com,购物
 天猫,品牌商城购物平台,https://www.tmall.com,购物
 拼多多,社交电商购物平台,https://www.pinduoduo.com,购物
 甜甜网盘,免费免费一直免费,https://pan.iqkx.cn,IPA网盘
+标题简介链接分类
+WeShop唯象,蘑菇街推出的AI商拍工具,https://www.weshop.com/?utm_source=ai-bot.cn,AI商品图生成
+元典智库,智能法律知识服务平台和搜索引擎,https://www.chineselaw.com/tyjs/index?utm_source=ai-bot.cn,AI商品图生成
+包阅AI,高效的AI智能阅读助手,https://baoyueai.com/channel?utm_id=221725,AI文档工具
+奇觅,美图推出的游戏广告AI制作与投放平台,https://qimi.com/?utm_source=ai-bot.cn,AI效率提升
+海绵音乐,字节跳动推出的免费AI音乐创作和发现平台,https://www.haimianyinyue.com/?utm_source=ai-bot.cn,AI效率提升
+Hoarder,开源的基于AI的书签和个人知识库管理工具,https://hoarder.app/?utm_source=ai-bot.cn,AI效率提升
+通义点金,阿里云推出的AI金融分析助手,https://tongyi.aliyun.com/dianjin#/?utm_source=ai-bot.cn,AI效率提升
+Cliclic AI,创客贴推出的AI商品图生成和编辑工具,https://www.cliclic.ai/?utm_source=ai-bot,AI商品图生成
+功夫量化,AI金融数据分析和量化交易工具,https://www.kungfu-trader.com/?utm_source=ai-bot.cn,AI商品图生成
+文心智能体平台,百度推出的智能体构建平台,https://agents.baidu.com/?utm_source=ai-bot.cn,AI商品图生成
+Zoom Workplace,Zoom推出的AI办公协作和交流沟通平台,https://www.zoom.com/zh-cn/products/collaboration-tools/,AI会议工具
+讯飞星火API,讯飞星火Lite API 永久免费开放,https://xinghuo.xfyun.cn/sparkapi?ch=gjt,AI会议工具
+IOPaint,免费开源的AI图像擦除、修复和处理工具,https://www.iopaint.com/?ref=ai-bot.cn,AI图片物体抹除
+腾讯会议AI小助手,腾讯会议推出的AI会议内容助理,https://meeting.tencent.com/ai/?ref=ai-bot.cn,AI会议工具
+Gemma,谷歌推出的新一代轻量级开放模型,https://ai.google.dev/gemma?hl=zh-cn,
+Acrobat AI Assistant,Adobe推出的Acrobat PDF文档AI助手,https://www.adobe.com/acrobat/generative-ai-pdf.html?ref=ai-bot.cn,AI文档工具
+腾讯问卷,腾讯推出的AI生成调查问卷的免费工具,https://wj.qq.com/ai/generate.html?utm_source=AI&utm_medium=aibot,AI文档工具
+Cubox,高效的AI阅读学习助手和信息收集管理工具,https://cubox.pro/?ref=ai-bot.cn,AI文档工具
+Quivr,开源的知识库搭建工具，构建你的第二大脑,https://www.quivr.app/?ref=ai-bot.cn,AI文档工具
+腾讯文档智能助手,腾讯推出的AI文档生成和辅助工具,https://docs.qq.com/?ref=ai-bot.cn,AI文档工具
+Pixian.AI,免费的AI图片背景抠除工具,https://pixian.ai/?ref=ai-bot.cn,AI图片背景移除
+Magnific AI,强大的AI图像放大工具，最高支持到10K分辨率,https://magnific.ai/?ref=ai-bot.cn,AI图片无损放大
+有道速读,网易有道推出的AI论文和文档阅读助手,https://read.youdao.com/?ref=ai-bot.cn,AI文档工具
+Remini,AI智能将模糊照片变高清的图像修复工具,https://remini.ai/?ref=ai-bot.cn,AI图片优化修复
+AI论文写作-笔灵AI,专业的AI论文写作工具，可免费生成千字论文大纲,https://ibiling.cn/paper?from=aibotpaper,
+咻图AI,面向影楼的摄影后期AI修图软件,https://www.aixtsy.com/?ref=ai-bot.cn,AI图片优化修复
+像素蛋糕PixCake,简单易用的AI图像精修工具,https://www.pixcakeai.com/?ref=ai-bot.cn,AI图片优化修复
+飞书智能伙伴,字节旗下飞书平台推出的AI办公助手,https://www.feishu.cn/product/ai_companion?utm_source=ai-bot.cn,热门AI办公工具
+PromptPerfect,专业的提示词优化工具，一站式开发、优化、调试和部署提示词,https://promptperfect.jinaai.cn/?utm_source=ai-bot.cn,
+堆友AI,阿里出品的免费AI绘画和出图神器,https://d.design/?from=aibot,
+顽兔抠图,阿里推出的一键去除商品图背景工具,https://d.design/toolbox/cutout?utm_source=ai-bot.cn,AI图片背景移除
+transpic,AI图像转绘插画创作平台,https://transpic.cn/?utm_source=ai-bot.cn,AI图片优化修复
+创意应用空间 – 百度文心,百度推出的AI工具箱大全，文本生成、文生图、智能对话等,https://wenxin.baidu.com/younger/creativeSpace?utm_source=ai-bot.cn,
+Kimi智能助手,超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧,https://kimi.moonshot.cn/?utm_campaign=TR_BY83xOmA&utm_content=&utm_medium=CPA&utm_source=CH_VmpNgGW9&utm_term=,
+美图云修,美图秀秀推出的一站式AI智能修图软件,https://yunxiu.meitu.com/,AI图片优化修复
+钉钉斜杠“/”（即将上线）,钉钉最新集成了通义千问大模型的AI办公助手,https://page.dingtalk.com/wow/dingtalk/default/dingtalk/I0HfYX4QStBIpLgxnZQe,热门AI办公工具
+jpgHD,人工智能老照片上色和修复,https://jpghd.com/zh,AI图片优化修复
+Cutout.Pro老照片上色,Cutout.Pro推出的黑白图片上色,https://www.cutout.pro/zh-CN/photo-colorizer-black-and-white,AI图片优化修复
+Icons8 Background Remover,Icons8出品的免费图片背景移除工具,https://icons8.com/bgremover,AI图片背景移除
+ClipDrop Remove Background,ClipDrop出品的AI图片背景移除工具,https://clipdrop.co/remove-background,AI图片背景移除
+Midjourney,AI图像和插画生成工具,https://cn.bing.com/search?q=Midjourney&ensearch=1,AI图片插画生成,常用AI图像工具,常用AI工具
+Erase.bg,在线抠图和去除图片背景,https://www.erase.bg/zh,AI图片背景移除
+Stable Diffusion,StabilityAI推出的文本到图像生成AI,https://cn.bing.com/search?q=Stable Diffusion&ensearch=1,AI图片插画生成,AI训练模型,常用AI图像工具,常用AI工具
+稿定AI,一站式AI创作和设计平台,https://www.gaoding.com/utms/70c9b2c822cd42de861fda9367640c0c,
+标小智Logo生成,人工智能AI生成Logo设计工具,https://www.logosc.cn/?utm_source=ai-bot.cn,
+BgSub,免费的保护隐私的AI图片背景去除工具,https://bgsub.cn/,AI图片背景移除
+PhotoStudio AI,AI商拍工具，虹软旗下推出,https://psai.cn/?source_id=1000,AI商品图生成,常用AI图像工具
+GoProd,Icons8推出的智能图片背景移除和无损放大二合一Mac应用,https://icons8.com/goprod?utm_source=ai-bot.cn,AI图片无损放大,AI图片背景移除
+千图设计室AI助手,AI绘画抠图工具集,https://hisheai.com/?from=ai-bot,AI图片背景移除
+Bing Image Creator,微软必应推出的基于DALL·E的AI图像生成工具,https://cn.bing.com/create,AI图片插画生成,常用AI图像工具
+Adobe Image Background Remover,Adobe Express的图片背景移除工具,https://www.adobe.com/express/feature/image/remove-background,AI图片背景移除
+Upscayl,免费开源的AI图片无损放大工具,https://www.upscayl.org/,AI图片无损放大,常用AI图像工具
+Removal.AI,AI图片背景移除工具,https://removal.ai/,AI图片背景移除
+超能画布,百度网盘推出的AI创意图像写真创作平台,https://photo.baidu.com/photasy/home?utm_source=ai-bot.cn,AI图片插画生成,常用AI图像工具
+星火内容运营大师,讯飞星火免费AI智能写作和内容运营工具,https://turbodesk.xfyun.cn/?channelid=gj39,
+Background Eraser,AI自动删除图片背景,https://magicstudio.com/zh/backgrounderaser,AI图片背景移除
+Paperpal,面向科研人员的AI写作工具,https://www.editage.cn/paperpal?utm_source=ai-bot&utm_medium=Banner&utm_campaign=Banner,
+Ribbet.ai,免费的多功能AI图片处理工具箱,https://ribbet.ai/,常用AI图像工具
+Slazzer,免费在线抠除图片背景,https://www.slazzer.com/,AI图片背景移除
+Cutout.Pro抠图,AI批量抠图去背景,https://www.cutout.pro/zh-cn/remove-background,AI图片背景移除
+remove.bg,强大的AI图片背景移除工具,https://www.remove.bg/zh?aid=kkgjrdhppgtrhbyn&utm_campaign=affiliate+marketing&utm_medium=referral&utm_source=affiliate,AI图片背景移除,常用AI图像工具
+笔灵AI写作,面向专业写作领域的AI写作工具,https://ibiling.cn/?from=ai-bot,
+ARC,腾讯旗下ARC实验室推出的免费AI图片处理工具,https://arc.tencent.com/zh/ai-demos/,常用AI图像工具
+BGremover,Vance AI推出的图片背景移除工具,https://bgremover.vanceai.com/,AI图片背景移除
+新华妙笔,新华社推出的AI公文写作平台,https://miaobi.xinhuaskl.com/?channel=shuzhi,
+fast.ai,免费开源的深度学习和AI学习网站，让每个人都参与到AI！,https://www.fast.ai/,
+文心一格,AI艺术和创意辅助平台,https://yige.baidu.com/,AI图片插画生成,常用AI图像工具,常用AI工具
+通义万相,阿里最新推出的AI绘画创作模型,https://wanxiang.aliyun.com/?utm_source=ai-bot.cn,AI图片插画生成,常用AI图像工具
+Quicktools Background Remover,Picsart旗下的Quicktools推出的图片背景移除工具,https://tools.picsart.com/image/background-remover/,AI图片背景移除
+Coursera,知名MOOC平台，众多人工智能和机器学习课程,https://www.coursera.org/collections/best-machine-learning-ai,
+秘塔写作猫,AI写作，文章自成,https://xiezuocat.com/?s=aigj,
+可图 KOLORS,快手推出的免费AI图像生成平台,https://kolors.kuaishou.com/?utm_source=ai-bot.cn,AI图片插画生成,常用AI图像工具
+Zyro AI Background Remover,Zyro推出的AI图片背景移除工具,https://zyro.com/tools/image-background-remover,AI图片背景移除
+Elements of AI,免费在线AI通识学习,https://www.elementsofai.com/,
+奇域AI,中式审美国风AI绘画创作平台,https://www.qiyuai.net/?utm_source=ai-bot.cn,AI图片插画生成,常用AI图像工具
+星火网文助手,免费AI小说网文写作工具,http://writersdesk.net/?from=aibot#/dashboard,
+DeepLearning.AI,深度学习和人工智能学习平台,https://www.deeplearning.ai/,
+Exactly.ai,专业的AI绘画和艺术创作平台,https://exactly.ai/?utm_source=ai-bot.cn,AI图片插画生成,常用AI图像工具
+火山写作,字节跳动旗下推出的免费AI写作助手,https://writingo.net/document?utm_source=aigongjuji,
+动手学深度学习,动手学深度学习的教材和课程,https://zh.d2l.ai/,
+PhotoScissors,免费自动图片背景去除,https://photoscissors.com/,AI图片背景移除
+橙篇,百度推出的AI长文理解和内容创作工具,https://cp.baidu.com/?utm_source=ai-bot.cn,
+摩笔马良,摩尔线程推出的AI图像绘画创作平台,https://maliang.mthreads.com/?utm_source=ai-bot.cn,AI图片插画生成,常用AI图像工具
+MachineLearningMastery,免费在线学习机器学习，从基础到高级,https://machinelearningmastery.com/start-here/,
+一键抠图,在线一键抠图换背景,https://www.yijiankoutu.com/,AI图片背景移除
+FlowUs AI,在线文档平台息流推出的AI创作助手，类似于Notion AI,https://flowus.cn/ai?ref=ai-bot.cn,
+Generative AI for Beginners,微软推出的面向初学者的免费生成式人工智能课程,https://microsoft.github.io/generative-ai-for-beginners/#/translation/cn/,
+造梦日记,AI一下，妙笔生画,https://zmrj.art/?utm_source=ai-bot.cn,AI图片插画生成,常用AI图像工具
+ClippingMagic,魔术般地去除图片背景,https://clippingmagic.com/,AI图片背景移除
+美图AI文生图,美图推出的AI文本生成图片的工具,https://design.meitu.com/aigc/text-to-image?from=ai-bot.cn,AI图片插画生成,常用AI图像工具
+图可丽,AI图片和视频抠图，一键抠图神器,https://www.tukeli.net/,AI图片背景移除
+ML for Beginners,微软推出的免费开源的机器学习课程，GitHub标星4万+,https://microsoft.github.io/ML-For-Beginners/,
+restorePhotos.io,AI老照片修复,https://www.restorephotos.io/,AI图片优化修复
+Jasper,AI文字内容创作工具,https://cn.bing.com/search?q=Jasper&ensearch=1,
+Dreamina,抖音旗下推出的AI图片创作工具,https://www.capcut.cn/ai-tool/?ref=ai-bot.cn,AI图片插画生成,常用AI图像工具
+Hotpot AI Background Remover,Hotpot.ai推出的图片背景移除工具,https://hotpot.ai/remove-background,AI图片背景移除
+Copy.ai,人工智能营销文案和内容创作工具,https://cn.bing.com/search?q=Copy.ai&ensearch=1,
+Kaggle,机器学习和数据科学社区,https://www.kaggle.com/,
+堆友AI反应堆,阿里旗下堆友推出的多风格AI绘画生成器,https://d.design/?from=aibot,AI图片插画生成,常用AI图像工具
+神经网络入门,Brilliant推出的Introduction to Neural Networks课程,https://brilliant.org/courses/intro-neural-networks/,
+Stylized,AI产品图背景替换,https://www.stylized.ai/,AI图片背景移除
+Writesonic,AI写作，文案，释义工具,https://cn.bing.com/search?q=Writesonic&ensearch=1,
+Trancy,AI驱动的语言学习工具,https://trancy.org/zh-cn?referrer=65803e3f65752510b033ade9,
+WHEE,美图推出的AI图片和绘画创作生成平台,https://www.whee.com?channel=1004,AI图片插画生成,常用AI图像工具
+Palette,AI图片调色上色,https://palette.fm/,AI图片优化修复
+Rytr,AI内容生成和写作助手,https://cn.bing.com/search?q=Rytr&ensearch=1,
+txyz,AI文献阅读和学术研究辅助平台,https://www.txyz.ai/?utm_source=ai-bot.cn,AI学习网站,AI文档工具
+触手AI绘画,免费专业的AI绘画/模型/分享平台,http://douchu.ai/warehouse/styleStore?inviteCode=677102&channel=channel_invite,AI图片插画生成,常用AI图像工具
+360鸿图,360推出的AI文生图工具，妙笔生画,https://tu.360.cn/?src=ai-bot.cn,
+Grammarly,AI英语语法和拼写检查写作助手,https://www.grammarly.com/,
+PixWeaver,生数科技推出的AI绘画和视频生成平台,https://pw.shengshu-ai.com/?ref=ai-bot.cn,AI图片插画生成,常用AI图像工具
+Reading Coach,微软推出的免费个性化AI阅读学习教练,https://coach.microsoft.com/?ref=ai-bot.cn,
+晓语台,智能AI写作工具，内置500+创作模板,https://www.xiaoyutai.com/?share_code=XYT90931478,
+Booth.ai,高质量AI产品展示效果图生成,https://www.booth.ai/,AI图片背景移除
+简单AI,搜狐最新推出的AI图片生成平台,https://ai.sohu.com/search?_trans_=000019_aidhlltj,AI图片插画生成,常用AI图像工具
+QuillBot,AI英/德语写作润色和改进工具,https://try.quillbot.com/6eqrqpoysmlh,
+AutoDraw,Google推出的AI快速素描绘画工具,https://www.autodraw.com/,
+飞桨AI Studio,人工智能学习实训社区,https://aistudio.baidu.com/,
+Kimi智能助手,超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧,https://kimi.moonshot.cn/?utm_campaign=TR_BY83xOmA&utm_content=&utm_medium=CPA&utm_source=CH_VmpNgGW9&utm_term=,
+秒画,商汤科技推出的免费AI作画和图片生成平台,https://miaohua.sensetime.com/zh-CN,AI图片插画生成,常用AI图像工具
+AI大学堂,科大讯飞推出的AI大学堂，学习AI、走进未来,https://www.aidaxue.com/,
+Notion AI,Notion推出的AI内容创作助手,https://cn.bing.com/search?q=Notion AI&ensearch=1,
+百度AI创作工具箱,百度大脑智能创作平台,https://ai.baidu.com/creativity/main/workbench,
+光速写作,作业帮旗下推出的AI写作工具,https://guangsuxie.com/?ref=ai-bot.cn,
+LiblibAI·哩布哩布AI,国内领先的AI图像创作平台和模型分享社区,https://cn.bing.com/search?q=LiblibAI·哩布哩布AI&ensearch=1,AI图片插画生成,常用AI图像工具
+豆包,字节跳动推出的免费AI对话助手,http://dis.csqixiang.cn/unpo/dbaigjj.html,
+阿里云AI学习路线,阿里云推出的人工智能学习路线（学+测）,https://developer.aliyun.com/learning/roadmap/ai,
+Pixelcut.ai,AI产品背景移除和替换,https://www.pixelcut.ai/,AI图片背景移除
+OpenGPT,开源ChatGPT工具箱，创建属于自己的ChatGPT应用,https://cn.bing.com/search?q=OpenGPT&ensearch=1,
+讯飞星火,科大讯飞推出的类ChatGPT的讯飞星火认知大模型,https://xinghuo.xfyun.cn/?ch=srx_9idsIR,
+创客贴AI画匠,创客贴推出的AI艺术画生成工具,https://aiart.chuangkit.com/landingpage,AI图片插画生成,常用AI图像工具
+Udacity AI学院,Udacity推出的School of AI，从入门到高级,https://www.udacity.com/school/school-of-ai,
+DeepL Write,DeepL推出的AI驱动的写作助手,https://www.deepl.com/write,
+PicWish,AI图片编辑和背景移除,https://picwish.com/,AI图片背景移除
+Copilot,微软推出的网页版Copilot助手,https://copilot.microsoft.com/,
+画宇宙,人工智能AI作画网站,https://creator.nolibox.com/?utm_source=ai-bot.cn,AI图片插画生成,常用AI图像工具
+Jenni,AI研究文章和博客写作辅助工具,https://cn.bing.com/search?q=Jenni&ensearch=1,
+Google AI,Google AI学习平台,https://ai.google/,
+图查查,360推出的AI作图平台，提供智能抠图、智能消除、智能放大、智能配图等功能,https://chacha.so.com/home?utm_source=ai-bot.cn,常用AI图像工具
+奇妙文,出门问问推出的AI写作助理,https://wen.mobvoi.com/?ref=ai-bot.cn,
+ShowMeAI知识社区,人工智能领域的资料库和学习社区,https://www.showmeai.tech/?ref=ai-bot.cn,
+TinyWow,免费在线AI工具箱,https://tinywow.com/,
+魔撰写作,出门问问旗下推出的AI智能写作工具,https://x.moyin.com/?ref=ai-bot.cn,
+ClipDrop,Stability.ai推出的AI图片处理系列工具,https://clipdrop.co/,常用AI图像工具
+蛙蛙写作,AI小说和内容创作工具,https://www.wawawriter.com/?ref=ai-bot.cn,
+稿定抠图,稿定设计推出的AI自动消除背景工具,https://koutu.gaoding.com/utms/e3717a090a6a42c180e2c273dcf8eed8,AI图片背景移除
+ChatGPT,OpenAI旗下AI对话工具,https://cn.bing.com/search?q=ChatGPT&ensearch=1,
+深言达意,免费的词句查询智能写作辅助工具，输入模糊描述即可查找词句,https://www.shenyandayi.com/?ref=ai-bot.cn,
+6pen Art,面包多团队推出的从文本描述生成绘画艺术作品,https://6pen.art/?utm_source=ai-bot.cn,AI图片插画生成,常用AI图像工具
+Bing新必应,微软推出的新版结合了ChatGPT功能的必应,https://cn.bing.com/search?q=Bing新必应&ensearch=1,
+灵构AI笔记,在线安全的灵感收集、思路整理AI笔记工具,https://88lingo.com/ai?utm_id=577,
+钉钉·个人版,钉钉推出的个人版办公应用程序，内置AI智能助手，可进行AI创作、AI对话、AI绘画,https://workspace.dingtalk.com/welcome?utm_source=ai-bot.cn,AI对话工具,热门AI办公工具
+Adobe Firefly,Adobe最新推出的AI图片生成工具,https://cn.bing.com/search?q=Adobe Firefly&ensearch=1,AI图片插画生成,常用AI图像工具
+有道写作,网易有道出品的智能英文写作修改和润色工具,https://write.youdao.com/#/homepage,
+文心一言,百度推出的基于文心大模型的AI对话互动工具,https://yiyan.baidu.com/?utm_source=ai-bot.cn1,
+PhotoRoom,免费的AI图片背景移除和添加,https://www.photoroom.com/background-remover,AI图片背景移除,常用AI图像工具
+腾讯元宝,腾讯推出的免费AI智能助手,https://yuanbao.tencent.com/?utm_source=ai-bot.cn,
+Visual Electric,专业的高质量AI图像创作工具,https://cn.bing.com/search?q=Visual Electric&ensearch=1,AI图片插画生成,常用AI图像工具
+写作蛙,智谱AI推出的免费智能写作工具,https://littlefrog.ai/?utm_source=ai-bot.cn,
+WriteWise,喜马拉雅推出的免费网文和小说AI写作工具,https://www.ximalaya.com/gatekeeper/write-wise-web?ref=ai-bot.cn,
+美图抠图,美图秀秀推出的AI智能抠图工具，一键移除背景,https://cutout.meitu.com/?utm_source=ai-bot.cn,AI图片背景移除
+万兴播爆,AI数字人口播视频营销工具（可商用），海量素材一键套用,https://virbo.wondershare.cn/?utm_source=aibot,
+Google Bard,Google推出的AI聊天对话机器人Bard,https://cn.bing.com/search?q=Google Bard&ensearch=1,
+BigJPG,免费的在线图片无损放大工具,https://bigjpg.com/,AI图片无损放大,常用AI图像工具
+Meta AI助手,Meta推出的免费AI聊天助手,https://www.meta.ai/?utm_source=ai-bot.cn,
+有言,一站式AI视频创作，1200+免费3D数字人,https://youyan.xyz/platform/home/prime?from=aigongjuji,
+360智绘,360推出的AI图片和绘画生成工具,https://aigc.360.com/?ref=ai-bot.cn,AI图片插画生成,常用AI图像工具
+百度作家平台,百度免费AI小说写作工具,https://zuojia.baidu.com/,
+Dream Machine,Luma推出的AI视频生成工具，120秒内可生成120帧视频,https://lumalabs.ai/dream-machine?utm_source=ai-bot.cn,
+百小应,百川智能推出的免费AI助手,https://ying.baichuan-ai.com/chat?from=ai-bot.cn,
+通义灵码,阿里推出的免费AI编程工具，基于通义大模型,https://developer.aliyun.com/topic/lingma/activities/202405?taskCode=16245&recordId=af6821e0fc9a3d8dfd4a79347116fda7#/?utm_content=m_fission_1,
+爱创作,ZAKER新闻推出的AI写作工具,https://ai.zaker.cn/,
+MagicStudio,高颜值AI图像处理工具,https://magicstudio.com/zh,常用AI图像工具
+必剪Studio,B站推出的免费AI数字分身定制和视频创作工具,https://member.bilibili.com/york/bilibili-studio/?utm_source=ai-bot.cn,
+代码小浣熊Raccoon,商汤科技推出的免费AI编程助手,https://raccoon.sensetime.com/code?utm_source=BLJUNE01,
+Verse,印象笔记旗下团队推出的AI写作和文档工具,https://verse.app.yinxiang.com/product/?utm_source=ai-bot.cn,
+Booltool,在线AI图像工具箱,https://booltool.boolv.tech/home,常用AI图像工具
+Claude,ChatGPT的最为有力的竞争对手之一,https://cn.bing.com/search?q=Claude&ensearch=1,
+Ohai,月之暗面旗下推出的AI角色扮演虚拟陪伴应用,https://beta.ohai.bot/discover?utm_source=ai-bot.cn,
+Udio,免费的AI音乐创作工具，每月可生成1200首歌曲,https://www.udio.com/?utm_source=ai-bot.cn,
+Stable Video,Stability AI上线的AI视频生成工具,https://www.stablevideo.com/?utm_source=ai-bot.cn,
+Moonbeam,长文章AI内容创作助手,https://cn.bing.com/search?q=Moonbeam&ensearch=1,
+Cutout.Pro,AI在线处理图片,https://www.cutout.pro/,常用AI图像工具
+GitHub Copilot,GitHub推出的AI编程工具,https://github.com/features/copilot,
+MarsCode,字节旗下推出的免费AI编程助手,https://www.marscode.com/?utm_source=ai-bot.cn,
+Le Chat,Mistral推出的AI对话聊天助手,https://chat.mistral.ai/?ref=ai-bot.cn,
+Sora,OpenAI推出的AI文本到视频生成模型,https://openai.com/sora?ref=ai-bot.cn,
+Cohesive,人工智能文案内容创作和编辑工具,https://cn.bing.com/search?q=Cohesive&ensearch=1,
+悟空图像PhotoSir,新一代专业图像处理软件，更智能、更高效、更好用,https://www.photosir.com/?ref=ai-bot.cn,常用AI图像工具
+海螺问问,MiniMax推出的免费AI智能聊天助理,https://hailuoai.com/?utm_source=ai-bot.cn,
+Jan,本地运行大模型并进行AI对话的工具，免费开源,https://jan.ai/?ref=ai-bot.cn,
+一帧秒创,简单好用的AI智能视频创作平台,https://aigc.yizhentv.com/?_f=botrm,
+Graviti Diffus,开箱即用的 Stable Diffusion WebUI 在线图像生成服务,https://www.diffus.graviti.com/?utm_source=tool&utm_medium=referral&utm_campaign=aibot,常用AI图像工具
+CodeWhisperer,亚马逊推出的免费AI编程助手,https://aws.amazon.com/codewhisperer/,
+彩云小梦,彩云科技推出的智能AI故事写作工具,https://if.caiyunai.com/,
+Project IDX,谷歌推出的AI云端开发和代码编辑器,https://idx.dev/?utm_source=ai-bot.cn,
+即创,抖音推出的一站式智能创作平台，支持视频、图文和直播创作,https://aic.oceanengine.com/?from=ai-bot.cn,
+紫东太初,中科院与武智院推出的千亿参数全模态大模型和助手,https://taichu-web.ia.ac.cn/#/welcome,
+万彩AI,全能型AI内容和文案创作助手,https://ai.kezhan365.com/inviteCode/FwJFxy,
+AI改图神器,AI万能图片在线编辑器,https://img.logosc.cn/?utm_source=ai-bot.cn,常用AI图像工具
+TensorFlow,Google推出的机器学习和人工智能开源库,https://www.tensorflow.org/?hl=zh-cn,
+WritingPal,面向留学生的AI英文写作工具,https://writingpal.ai/?ref=ai-bot.cn,
+Grok,马斯克旗下xAI推出的人工智能助手,https://grok.x.ai/,
+度加创作工具,百度官方出品的AIGC创作平台,https://aigc.baidu.com/?utm_source=ai-bot-c,
+Cody,Sourcegraph推出的免费AI编程工具,https://about.sourcegraph.com/cody?utm_source=ai-bot.cn,
+网易天音,网易推出的一站式AI音乐创作工具,https://tianyin.163.com/,
+Hama,在线抹除图片中不想要的物体,https://www.hama.app/zh,AI图片物体抹除,常用AI图像工具
+PyTorch,开源机器学习框架,https://pytorch.org/,
+Noisee AI,月之暗面旗下推出的AI音乐视频MV生成工具,https://noisee.ai/?utm_source=ai-bot.cn,
+Civitai,免费的AI图像绘画作品和模型分享平台和社区,https://civitai.com/,AI图片插画生成,常用AI图像工具
+通义千问,阿里巴巴推出的类ChatGPT响应人类指令的大模型，已免费开放,https://qianwen.aliyun.com/,
+TME Studio,腾讯音乐推出的智能音乐创作助手,https://y.qq.com/tme_studio/index.html#/,
+Codeium,免费的AI编程工具，智能生成和补全代码,https://www.codeium.com/,
+飞桨PaddlePaddle,开源深度学习平台,https://www.paddlepaddle.org.cn/,
+Magic Write,Canva旗下AI文案生成器,https://cn.bing.com/search?q=Magic Write&ensearch=1,
+GPT-4,OpenAI旗下最新的GPT-4模型,https://cn.bing.com/search?q=GPT-4&ensearch=1,
+小黄蕉,字节跳动旗下推出的AI虚拟交友聊天平台,https://chatwiz.cn/h5/feely?utm_source=ai-bot.cn,
+DevChat,开源的支持多款大模型的AI编程助手,https://www.devchat.ai/zh?ref=ai-bot.cn,
+Stable Audio,Stability AI最新推出的音乐生成工具,https://www.stableaudio.com/?utm_source=ai-bot.cn,
+网易AI创意工坊,网易云课堂推出的AI作画平台，在线使用Stable Diffusion出图,https://ke.study.163.com/artWorks/painting?utm_source=ai-bot.cn,AI图片插画生成,常用AI图像工具
+昇思MindSpore,华为开源自研AI深度学习框架,https://www.mindspore.cn/,
+Auto-GPT,爆火的实现GPT-4完全自主的实验性开源项目，GitHub超10万星,https://agpt.co/,
+NovelAI,AI小说故事创作工具,https://cn.bing.com/search?q=NovelAI&ensearch=1,
+Suno,高质量的AI音乐创作平台,https://www.suno.ai/?ref=ai-bot.cn,
+智谱清言,智谱AI推出的生成式AI助手，基于ChatGLM 2,https://chatglm.cn/pureDisplay?fr=mkazb01,
+言之画,AI图像内容创作平台，由出门问问推出,https://paint.mobvoi.com/?ref=ai-bot.cn,常用AI图像工具
+AgentGPT,在浏览器中组装、配置和部署自主人工智能的开源项目,https://agentgpt.reworkd.ai/,
+Sketch2Code,微软AI Lab推出的将手绘草图转换成HTML代码工具,https://sketch2code.azurewebsites.net/,
+Spell.tools,高颜值AI内容营销创作工具,https://cn.bing.com/search?q=Spell.tools&ensearch=1,
+Runway,强大的AI视频制作工具，绿幕抠像、视频合成等,https://runwayml.com/green-screen/,
+Apache MXNet,免费开源的深度学习框架,https://mxnet.apache.org/,
+Hedra,AI对口型视频生成工具，单次可免费生成30秒的视频,https://www.hedra.com/?utm_source=ai-bot.cn,
+小悟空,字节跳动推出的免费AI对话助手和个人助理,https://wukong.com/tool?utm_source=ai-bot.cn,
+CodiumAI,免费的AI代码测试和分析工具,https://www.codium.ai/,
+HyperWrite,AI写作助手帮助你创作内容更自信,https://cn.bing.com/search?q=HyperWrite&ensearch=1,
+Relight,ClipDrop推出的AI图像打光工具,https://clipdrop.co/relight,AI图片优化修复,常用AI图像工具
+讯飞智作,科大讯飞推出的AI转语音和配音工具,https://peiyin.xunfei.cn/?utm_source=ai-bot.cn,
+Scikit-learn,Python机器学习库,https://scikit-learn.org/,
+跃问,阶跃星辰推出的支持多模态的AI聊天机器人,https://yuewen.cn/chats/new?utm_source=aitools&utm_content=ai_bot,
+MLX,苹果推出的开源机器学习框架，专为Apple Silicon芯片设计,https://ml-explore.github.io/mlx/build/html/index.html,
+Uberduck,开源的AI语音生成社区，5000多种不同的声音,https://uberduck.ai/?via=ai-bot,
+悟道,智源“悟道”大模型，中国首个+世界最大人工智能大模型,https://www.baai.ac.cn/portal/article/index/cid/49/id/518.html,
+D-ID,AI真人口播视频生成工具,https://cn.bing.com/search?q=D-ID&ensearch=1,
+Facet,AI图片修图和优化工具,https://facet.ai/,AI图片优化修复,常用AI图像工具
+Cursor,AI代码编辑器，快速进行编程和软件开发,https://www.cursor.sh/?ref=ai-bot.cn,
+Typeface AI,AI创意内容创作助手,https://cn.bing.com/search?q=Typeface AI&ensearch=1,
+Viva,免费的AI视频生成和图像创作平台,https://vivago.ai/?utm_source=ai-bot.cn,
+商量SenseChat,商汤科技推出的免费AI聊天助手,https://chat.sensetime.com/wb/home?utm_source=ai-bot.cn,
+腾讯混元大模型,腾讯研发的大语言模型，具备强大的中文创作能力，复杂语境下的逻辑推理能力，以及可靠的任务执行能力,https://hunyuan.tencent.com/?utm_source=ai-bot.cn,
+ElevenLabs,AI文本转语音，支持包含中文在内的28种语言,https://try.elevenlabs.io/mqbahm8egbk8,
+Label Studio,免费开源的数据标注工具,https://labelstud.io/,
+CodeGeeX,智谱AI推出的免费AI编程助手,https://codegeex.cn/zh-CN,
+Hotpot.ai,AI图片图像处理和生成工具,https://cn.bing.com/search?q=Hotpot.ai&ensearch=1,常用AI图像工具
+悉语,阿里旗下智能文案工具，一键生成电商营销文案,https://chuangyi.taobao.com/pages/aiCopy,
+腾讯云AI代码助手,腾讯推出的AI编程辅助工具,https://cloud.tencent.com/product/acc?utm_source=ai-bot.cn,
+Sonauto,免费的AI音乐生成和歌曲创作工具,https://sonauto.ai/?utm_source=ai-bot.cn,
+冒泡鸭,阶跃星辰推出的AI聊天机器人和智能体平台,https://maopaoya.com/?ref=ai-bot.cn,
+Coze,字节推出的AI机器人和智能体创建平台,https://www.coze.com/?ref=ai-bot.cn,
+Vercel AI SDK,Vercel开源的搭建AI聊天机器人的开发套件，支持React/Svelte/Vue等框架,https://sdk.vercel.ai/docs?utm_source=ai-bot.cn,
+DeepAI,在线AI图片生成和编辑,https://cn.bing.com/search?q=DeepAI&ensearch=1,常用AI图像工具
+腾讯智影,腾讯推出的在线智能视频创作平台,https://zenvideo.qq.com/,
+文涌Effidit,腾讯AI Lab开发的智能创作助手,https://effidit.qq.com/,
+曦灵,百度推出的AI数字人和视频创作平台,https://xiling.cloud.baidu.com/?utm_source=ai-bot.cn,
+天工SkyMusic,昆仑万维发布的国内首个AI音乐生成大模型,https://music.tiangong.cn/?utm_source=ai-bot.cn,
+Ollama,本地运行Llama和其他大语言模型,https://ollama.ai/?ref=ai-bot.cn,
+CodeFuse,蚂蚁集团推出的AI代码编程助手,https://codefuse.alipay.com/?ref=ai-bot.cn,
+应事AI,MiniMax推出的AI对话助理，已免费开放,https://yingshi-ai.com/?utm_source=ai-bot.cn,
+秘塔捉捉猫,秘塔写作猫推出的AI文字到图像生成工具,https://drawdraw.com/?s=aigj,常用AI图像工具
+Keras,Python版本的TensorFlow深度学习API,https://keras.io/,
+火龙果写作,AI驱动的文字生产力工具,https://www.mypitaya.com/,
+可灵大模型,快手推出的视频生成大模型，可生成2分钟的视频,https://kling.kuaishou.com/?utm_source=ai-bot.cn,
+Tabby,免费开源的自托管AI编程助手,https://tabby.tabbyml.com/?ref=ai-bot.cn,
+Imagine with Meta,Meta最新推出的在线AI图像生成器,https://cn.bing.com/search?q=Imagine with Meta&ensearch=1,AI图片插画生成,常用AI图像工具
+MiracleVision奇想智能,美图推出的AI视觉大模型，支持AI图像、设计和视频创作,https://www.miraclevision.com/?ref=ai-bot.cn,
+百川大模型,百川智能推出的大模型助手，融合了意图理解、信息检索以及强化学习技术,https://chat.baichuan-ai.com/home?utm_source=ai-bot.cn,
+魔音工坊,AI配音软件，轻松配出媲美真人的声音,https://www.moyin.com/?promottype=WZ__aibot__null,
+HeyFriday,国内团队推出的智能AI写作工具,https://www.heyfriday.cn/home,
+Caffe,UC伯克利研究推出的深度学习框架,https://caffe.berkeleyvision.org/,
+开拍,美图推出的AI口播视频制作工具,https://kaipai.meitu.com/?ref=ai-bot.cn,
+大饼AI变声,免费专业的AI变声软件，一键实时语音变声,https://dubbing.tech/?ref=ai-bot.cn,
+iFlyCode,科大讯飞推出的智能编程助手,https://iflycode.xfyun.cn/?utm_source=ai-bot.cn,
+Freepik AI Image Generator,Freepik最新推出的AI图片生成工具,https://cn.bing.com/search?q=Freepik AI Image Generator&ensearch=1,AI图片插画生成,常用AI图像工具
+百度AI伙伴,百度最新上线的AI搜索对话工具,https://chat.baidu.com/,
+Gradio,开源的搭建机器学习模型UI界面的Python库,https://gradio.app/,
+NumPy,Python科学计算必备的包,https://numpy.org/,
+爱改写,AI改写、纠错、润色辅助工具,https://www.aigaixie.com/,
+MOKI,美图推出的AI视频短片创作工具,https://www.moki.cn/?utm_source=ai-bot.cn,
+Supertone Shift,AI驱动的实时语音变换软件,https://product.supertone.ai/shift?utm_source=ai-bot.cn,
+C知道,CSDN推出的AI技术问答工具,https://so.csdn.net/chat?utm_source=ai-bot.cn,
+超级助理,百度智能云发布的基于文心一言的AI原生应用和Copilot“超级助理”,https://cloud.baidu.com/product/infoflow.html?ref=ai-bot.cn,
+DeepFloyd IF,StabilityAI旗下的DeepFloyd团队推出的图片生成模型,https://deepfloyd.ai/deepfloyd-if,
+DL4J,开源的使用JVM部署和训练深度学习模型的套件,https://deeplearning4j.konduit.ai/,
+Canva AI图像生成,在线设计工具Canva推出的AI图像生成工具,https://cn.bing.com/search?q=Canva AI图像生成&ensearch=1,AI图片插画生成,常用AI图像工具
+易撰,新媒体AI内容创作助手,https://www.yizhuan5.com/,
+驭码CodeRider,极狐GitLab推出的AI编程与软件智能研发助手,https://coderider.gitlab.cn/?utm_source=ai-bot.cn,
+星火绘镜,科大讯飞推出的AI短视频创作平台,https://typemovie.art/?utm_source=nt-aibot#/dashboard/,
+MChat,基于孟子GPT大模型的AI对话机器人,https://www.langboat.com/portal/mengzi-gpt?from=ai-bot.cn,
+Cohere,构建AI产品的大语言模型平台,https://cohere.com/,
+JAX,Google推出的用于变换数值函数的机器学习框架,https://jax.readthedocs.io/en/latest/,
+Riffusion,AI生成不同风格的音乐，免费开源,https://www.riffusion.com/,
+Stockimg AI,AI生成各种类型的图像和插画,https://cn.bing.com/search?q=Stockimg AI&ensearch=1,AI图片插画生成,常用AI图像工具
+智搜,Giiso写作机器人，内容创作AI辅助工具,https://www.giiso.com/,
+KreadoAI,AI数字人视频营销创作平台,https://kreadoai.com/?utm_source=ai-bot.cn,
+Duo Chat,GitLab推出的AI编程助手,https://about.gitlab.com/gitlab-duo/?utm_source=ai-bot.cn,
+Luca面壁露卡,面壁智能推出的千亿多模态大模型免费智能对话助手,https://luca-beta.modelbest.cn/,
+Stable Doodle,StabilityAI最新推出的将手绘草图转换成精美图像的工具,https://clipdrop.co/stable-doodle,AI图片插画生成,常用AI图像工具
+Adobe Podcast,Adobe推出的在线AI音频录制和编辑工具,https://podcast.adobe.com/,
+创作王,AI一键帮助你创作营销内容,https://aiapp.cc/?ref=ai-bot.cn,
+NLTK,Python自然语言处理工具包,https://www.nltk.org/,
+DALL·E 3,OpenAI旗下最新的图像生成模型,https://cn.bing.com/search?q=DALL·E 3&ensearch=1,
+CodeRabbit,AI驱动的代码审查平台,https://coderabbit.ai/?utm_source=ai-bot.cn,
+Viggle,AI生成角色动态视频的工具,https://viggle.ai/?ref=ai-bot.cn,
+元象XChat,元象XVERSE大模型驱动的AI聊天助手,https://chat.xverse.cn/home/index.html?ref=ai-bot.cn,
+网易云音乐·X Studio,网易云音乐与小冰智能联合推出的免费AI歌手音乐创作软件,https://xstudio.music.163.com/?utm_source=ai-bot.cn,
+175FUN,免费AI绘画社区，国货之光,https://175.fun/?refer=ai-bot.cn,AI图片插画生成,常用AI图像工具
+字符狂飙,全方位AI文档生成工具，快速生成专业文档,https://vgoapp.com/?ref=ai-bot.cn,
+LangChain,开发由语言模型驱动的应用程序的框架,https://docs.langchain.com/docs/,
+Codex,OpenAI旗下AI代码生成训练模型,https://openai.com/blog/openai-codex,
+Wondercraft,AI音频内容生成工具，可创建播客有声书等,https://www.wondercraft.ai/?via=ai-bot,
+Augment,AI编程辅助工具，专为大型代码库设计,https://www.augmentcode.com/?utm_source=ai-bot.cn,
+Spikes Studio,AI自动将长视频切片剪辑为短视频,https://spikes.studio/?ref=uS3c5lzVrr,
+AIPaperPass,AI论文生成器，一键生成3万字论文,https://www.aipaperpass.com?pic=7N9W,
+ChitChop,字节旗下面向海外用户推出的免费大模型产品和AI助手工具箱,https://www.chitchop.com/?ref=ai-bot.cn,
+行者AI美术,AI图片生成和美术创作工具箱,https://xingzheai.cn/#create?utm_source=ai-bot.cn,AI图片插画生成,常用AI图像工具
+Lightning AI,快速训练、部署和开发人工智能产品的深度学习框架，由Pytorch Lightning团队推出,https://lightning.ai/?ref=ai-bot.cn,
+文心大模型,百度推出的产业级知识增强大模型,https://wenxin.baidu.com/,
+听脑AI,人工智能语音录音记录助手,https://itingnao.com/?utm_source=ai-bot.cn,
+Google Vids,谷歌推出的AI视频创作工具,https://workspace.google.com/products/vids/?ref=ai-bot.cn,
+Devin,首个全自主的AI软件工程师智能体,https://preview.devin.ai/?ref=ai-bot.cn,
+范文喵,面向大学生的AI论文写作工具,https://ai.wolian.chat/openmao/#/?inviteCode=1745323733465174017,
+DeepSeek,幻方量化旗下深度求索推出的开源大模型和聊天助手,https://www.deepseek.com/?utm_source=ai-bot.cn,
+Leap,将AI快速集成到你自己的应用中,https://www.tryleap.ai/?utm_source=ai-bot.cn,
+Skybox AI,AI生成和合成360°全景图像插画,https://skybox.blockadelabs.com/?utm_source=ai-bot.cn,AI图片插画生成,常用AI图像工具
+序列猴子,出门问问推出的一款超大规模的语言模型,https://openapi.mobvoi.com/index,
+Voicenotes,AI驱动的语音笔记工具,https://voicenotes.com/?utm_source=ai-bot.cn,
+Plandex,免费开源的基于终端的AI编程引擎,https://plandex.ai/?ref=ai-bot.cn,
+PaperBetter AI,AI论文写作工具，一键生成万字初稿,http://www.ai.paperbetter.com/?f=9,
+WinkStudio,美图推出的桌面端AI视频剪辑工具,https://wink.meitu.com/?ref=ai-bot.cn,
+魔搭GPT（ModelScopeGPT）,阿里达摩院推出的大小模型协同的智能助手，具备作诗、绘画、视频生成、语音播放等多模态能力,https://www.modelscope.cn/studios/damo/ModelScopeGPT,
+魔搭社区,阿里达摩院推出的AI模型社区，超过300+开源AI模型,https://www.modelscope.cn/,
+OptimizerAI,AI声音效果生成工具,https://www.optimizerai.xyz/?utm_source=ai-bot.cn,
+Fitten Code,非十科技推出的免费AI代码助手,https://code.fittentech.com/?ref=ai-bot.cn,
+XPaper AI,晓语台旗下的论文写作辅助指导平台,https://www.130ai.com/?source=ugJBi0zP,
+Forefront,提供GPT-3.5、GPT-4、Claude的AI聊天机器人,https://cn.bing.com/search?q=Forefront&ensearch=1,
+BLOOM,HuggingFace推出的大型语言模型（LLM）,https://huggingface.co/docs/transformers/model_doc/bloom,
+茅茅虫论文写作,一站式AI论文写作助手,https://mymmc.cn/?fromId=9120p0f8,
+DomoAI,一键将照片和视频动漫化的AI工具,https://domoai.app/?ref=ai-bot.cn,
+Pic Copilot,阿里国际推出的AI商品营销图工具,https://www.piccopilot.com/?ref=ai-bot.cn,AI商品图生成,常用AI图像工具
+ACE Studio,AI歌声合成工具，输入歌词与旋律即可生成宛如真人的歌声,https://ace-studio.timedomain.cn,
+HuggingChat,HuggingFace推出的在线聊天机器人，基于Open Assistant模型,https://cn.bing.com/search?q=HuggingChat&ensearch=1,
+BLACKBOX AI,黑箱AI编程助理，快速代码生成,https://www.useblackbox.io/?ref=ai-bot.cn,
+阿里巴巴M6,阿里巴巴达摩院推出的超大规模中文预训练模型(M6),https://m6.aliyun.com/#/,
+Gatekeep,AI教学视频生成工具，可生成数学物理问题解释视频,https://gatekeep.ai/?ref=ai-bot.cn,
+蓝藻AI,云知声旗下的AI配音和声音克隆平台,https://aigc.unisound.com/?ref=ai-bot.cn,
+小微智能论文,人工智能论文创作辅助工具,http://t2unr1.checkmore.net/tb/NY6p0S?dCode=uJda4GWdSpLzU9Mi&couponCode=xiaoweilunwen,
+Solo,Mozilla推出的零编程无代码AI网站建设工具,https://soloist.ai/?ref=ai-bot.cn,
+Lamini,低门槛快速定制大语言模型的引擎,https://lamini.ai/,
+Poe,问答社区Quora推出的问答机器人工具,https://cn.bing.com/search?q=Poe&ensearch=1,
+Reecho睿声,超拟真的中英文AI语音克隆/生成平台,https://www.reecho.ai/?ref=ai-bot.cn,
+Morph Studio,高质量的AI文本到视频生成工具,https://www.morphstudio.com/?ref=ai-bot.cn,
+笔杆论文,简单高效的AI论文写作平台,https://write.bigan.net/?ref=ai-bot.cn,
+Comate,百度推出的AI编程助手，基于文心大模型,https://comate.baidu.com/?utm_source=ai-bot.cn,
+TigerBot,虎博科技推出的AI对话聊天机器人，基于TigerBot开源大模型,https://tigerbot.com/?utm_source=ai-bot.cn,
+StableLM,Stability AI推出的开源的类ChatGPT大语言模型,https://github.com/Stability-AI/StableLM,
+Deepgram,快速低成本的AI语音文本互转API平台,https://deepgram.partnerlinks.io/ai-bot,
+Haiper,AI视频生成和重绘工具，支持文本/图像转视频,https://haiper.ai/?ref=ai-bot.cn,
+悟智写作,人工智能驱动的自动化写作平台,https://www.wuz.com.cn/?ref=ai-bot.cn,
+JetBrains AI,JetBrains推出的AI编程开发助手,https://www.jetbrains.com/ai/?ref=ai-bot.cn,
+Stable Chat,Stability AI 最新推出的免费聊天对话网站,https://research.stability.ai/chat,
+Showrunner,AI动画视频剧集生成工具,https://www.showrunner.xyz/?utm_source=ai-bot.cn,
+Audiobox,Meta推出的免费开源的AI语音和声音生成模型,https://audiobox.metademolab.com/?ref=ai-bot.cn,
+CodeArts Snap,华为云推出的智能编程助手,https://www.huaweicloud.com/product/codeartside/snap.html,
+讯飞智检,讯飞推出的智能写作SaaS工具，支持智能写作后的校对与合规审核,https://zj.xfyun.cn/exam/text,
+ColossalChat,Colossal-AI推出的免费开源版ChatGPT聊天机器人替代品,https://cn.bing.com/search?q=ColossalChat&ensearch=1,
+Gen-2,Runway最新推出的AI视频生成模型,https://research.runwayml.com/gen2,
+即构数智人,即构科技推出的AI数字人创作平台,https://aigc.zego.im/#/MyHome?utm_source=ai-bot.cn,
+5118 SEO优化精灵,一键式生成高质量SEO文章，提高搜索引擎排名获得更多流量,https://www.5118.com/ai/articlegenius,
+AskCodi,你的个人AI编程助手,https://www.askcodi.com/,
+Character.AI,创建虚拟角色并与其对话,https://cn.bing.com/search?q=Character.AI&ensearch=1,
+Resemble.ai,AI人声生成工具,https://www.resemble.ai/,
+ChatDev,面壁智能推出的AI智能体软件开发平台，使用自然语言即可创建软件,https://chatdev.modelbest.cn/?ref=ai-bot.cn,
+快剪辑,360旗下的AI视频剪辑工具，AI成片、AI数字人、智能添加字幕、去水印等,https://www.kuaijianji.com/?ref=ai-bot.cn,
+DeepSpeed,微软开源的低成本实现类似ChatGPT的模型训练,https://www.deepspeed.ai/,
+ContentBot,AI快速写作工具,https://cn.bing.com/search?q=ContentBot&ensearch=1,
+Jasper Chat,Jasper针对内容创作者出品的AI聊天工具,https://cn.bing.com/search?q=Jasper Chat&ensearch=1,
+IBM Watson文字转语音,IBM Watson文字转语音,https://www.ibm.com/cloud/watson-text-to-speech,
+蝉镜,AI数字人视频生成平台,https://www.chanjing.cc/?utm_source=ai-bot.cn,
+v0.dev,AI生成前端React/UI组件，由Vercel推出,https://v0.dev/?ref=ai-bot.cn,
+PaLM 2,Google的下一代大语言模型，超过3400亿参数,https://ai.google/discover/palm2,
+Bearly,AI阅读总结、写作和内容生成助手,https://cn.bing.com/search?q=Bearly&ensearch=1,
+FakeYou,Deep Fake文本转语音,https://fakeyou.com/,
+YouChat AI,AI搜索对话工具,https://cn.bing.com/search?q=YouChat AI&ensearch=1,
+闪剪,AI数字人短视频创作工具,https://shanjian.tv/?ref=ai-bot.cn,
+Boxy,CodeSandbox推出的AI编程助手,https://codesandbox.io/blog/meet-boxy-ai-coding-assistant,
+BGM猫,灵动音科技推出的AI智能生成BGM音乐,https://bgmcat.com/home,
+快文CopyDone,AIGC原创内容创作和营销文案生成,https://copyai.cn/,
+ChatSonic,WriteSonic出品的ChatGPT竞品,https://cn.bing.com/search?q=ChatSonic&ensearch=1,
+快转字幕,AI语音视频转文字和字幕的工具,https://www.kzzimu.com/?ref=ai-bot.cn,
+Quest AI,AI将设计稿生成React代码，支持JavaScript和TypeScript,https://www.quest.ai/?utm_source=ai-bot.cn,
+Wonder Studio,AI自动为CG角色制作动画、打光并将其合成到真人场景中,https://wonderdynamics.com/,
+Replika,AI对话陪伴工具,https://cn.bing.com/search?q=Replika&ensearch=1,
+Peppertype.ai,高质量AI内容生成,https://cn.bing.com/search?q=Peppertype.ai&ensearch=1,
+LLaMA,Meta（Facebook）推出的AI大语言模型,https://github.com/facebookresearch/llama,
+Pika,Pika Labs推出的AI视频生成和编辑工具,https://pika.art/,
+悦音配音,AI智能在线配音语音合成工具,https://yueyin.zhipianbang.com?utm_source=ai-bot.cn,
+天工智码Skycode,AI智能编程助手，轻松生成各种代码,https://sky-code.singularity-ai.com/index.html#/,
+OpenBMB,清华团队支持发起的大规模预训练语言模型库与相关工具,https://www.openbmb.org/home,
+Compose AI,免费的Chrome浏览器自动化写作扩展,https://cn.bing.com/search?q=Compose AI&ensearch=1,
+Whispr,免费AI对话回应,https://cn.bing.com/search?q=Whispr&ensearch=1,
+Magicam,实时的AI直播/视频换脸工具,https://magicam.ai/?utm_source=ai-bot.cn,
+音虫,内置AI音乐编曲的音乐制作工具,https://www.soundbug.com/?ref=ai-bot.cn,
+JamGPT,AI Debug调试助手,https://jam.dev/jamgpt,
+Open Assistant,免费开源的对话式AI，GitHub星标超3万,https://cn.bing.com/search?q=Open Assistant&ensearch=1,
+Segment Anything（SAM）,Meta最新推出的AI图像分割模型,https://segment-anything.com/,
+Texta,AI博客和文章一键生成,https://cn.bing.com/search?q=Texta&ensearch=1,
+LTX Studio,AI电影制作和视频短片生成平台,https://ltx.studio/?ref=ai-bot.cn,
+Pi,DeepMind联创新公司推出的AI聊天机器人,https://cn.bing.com/search?q=Pi&ensearch=1,
+aiXcoder,自然语言到代码的方法级代码生成，以及多行智能代码补全,https://www.aixcoder.com,
+Sudowrite,AI故事写作工具，多种风格选择,https://cn.bing.com/search?q=Sudowrite&ensearch=1,
+Mubert,AI BGM背景音乐生成工具,https://mubert.com/,
+HuggingFace,AI模型开发社区,https://huggingface.co/,
+Clipfly,一站式AI长视频制作和编辑平台,https://www.clipfly.ai/?ref=ai-bot.cn,
+天壤小白,灵活的AI应用构建和开发平台,https://www.tianrang.com/?ref=ai-bot.cn,
+Beatoven.ai,免版税AI音乐创建平台,https://www.beatoven.ai/,
+MOSS,复旦大学团队开发的对话式大型语言模型,https://moss.fastnlp.top/,
+ClosersCopy,AI文案写作机器人,https://cn.bing.com/search?q=ClosersCopy&ensearch=1,
+AirOps,AI SQL语句生成和修改,https://www.airops.com/,
+Captions,AI驱动的视频剪辑和制作平台,https://www.captions.ai/?utm_source=ai-bot.cn,
+Imgcook,阿里推出的免费设计稿智能生成前端代码,https://www.imgcook.com/,
+BeatBot,输入文本提示快速生成歌曲和音乐,https://beatbot.fm/?ref=ai-bot.cn,
+神采,让创意照进现实， AI生成创意插画,https://www.ishencai.com/,AI图片插画生成
+Inworld,开发和创建AI虚拟角色并与其互动,https://cn.bing.com/search?q=Inworld&ensearch=1,
+Imagen,Google AI文字到图像生成模型,https://imagen.research.google/,
+WPS智能写作,WPS旗下在线智能写作工具,https://ai-bot.cn,
+Capsule,AI驱动的在线视频剪辑工具，个人和小团队免费,https://capsule.video/?ref=ai-bot.cn,
+360智脑,360搜索最新推出的AI对话聊天机器人,https://ai.360.com/?src=ai-bot.cn,
+StableVicuna,第一个通过RLHF训练的大规模开源聊天机器人,https://chat.lmsys.org/,
+Deco,京东推出的设计稿一键生成多端代码工具,https://ling-deco.jd.com/,
+Anyword,AI文案写作助手和文本生成器,https://cn.bing.com/search?q=Anyword&ensearch=1,
+Audo Studio,AI音频清洗工具（噪音消除、声音平衡、音量调节）,https://audo.ai/,
+GoEnhance,AI视频风格转换和画质增强工具,https://www.goenhance.ai/?utm_source=ai-bot.cn,
+Watsonx.ai,IBM推出的企业级生成式人工智能和机器学习平台,https://www.ibm.com/products/watsonx-ai,
+Neeva,集成了AI问答的AI搜索引擎,https://cn.bing.com/search?q=Neeva&ensearch=1,
+Ghostwriter,知名在线编程IDE Replit推出的AI编程助手,https://replit.com/site/ghostwriter,
+Hypotenuse AI,人工智能写作助手和文本生成器,https://cn.bing.com/search?q=Hypotenuse AI&ensearch=1,
+NaturalReader,AI文本转语音工具,https://www.naturalreaders.com/,
+InVideo AI,人工智能视频创作和剪辑工具,https://invideo.io/?utm_source=ai-bot.cn,
+AI论文君,AI大模型驱动的论文写作好帮手,https://www.ailunwenjun.com/?ref=ai-bot.cn,
+商量SenseChat,商汤科技推出的类ChatGPT的人工智能大语言模型,https://chat.sensetime.com/wb/,
+Codiga,AI代码实时分析,https://www.codiga.io/,
+Lobe,简单免费的机器学习模型训练工具,https://www.lobe.ai/,
+AssemblyAI,转录和理解语音的AI模型,https://www.assemblyai.com/,
+Smodin AI Research Paper,Smodin推出的AI研究论文写作工具,https://smodin.io/zh-cn/%E4%BD%9C%E5%AE%B6/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87,
+天工AI助手,昆仑万维与奇点智源联合研发的对标ChatGPT的大语言模型,https://tiangong.kunlun.com/,
+Locofy,AI无代码工具将Figma、Adobe XD和Sketch设计转换成前端代码,https://www.locofy.ai/,
+Scale AI,AI机器学习标注训练平台,https://scale.com/,
+LALAL.AI,AI人声乐器分离和提取,https://www.lalal.ai/,
+Unscreen,AI智能视频背景移除工具,https://www.unscreen.com/,
+EbSynth,AI将真人视频转化为油画风动画,https://ebsynth.com/?ref=ai-bot.cn,
+对话写作猫,秘塔写作猫推出的AI对话聊天工具,https://xiezuocat.com/chat?s=aigj,
+ParagraphAI,基于ChatGPT的AI写作应用,https://cn.bing.com/search?q=ParagraphAI&ensearch=1,
+Fronty,AI智能将图片转换成HTML和CSS代码,https://fronty.com/,
+Replicate,在线运行开源机器学习模型,https://replicate.com/,
+Krisp,AI噪音消除工具,https://krisp.ai/,
+Artflow,AI创建生成视频动画,https://cn.bing.com/search?q=Artflow&ensearch=1,
+Evidently AI,开源的机器学习模型监测和测试工具,https://www.evidentlyai.com/,
+LongShot,AI长文章写作工具,https://cn.bing.com/search?q=LongShot&ensearch=1,
+Play.ht,超真实在线AI语音生成,https://play.ht/,
+MarsX,AI无代码软件开发,https://www.marsx.dev/,
+天工巧绘SkyPaint,免费的AI插画绘制工具，由昆仑万维与奇点智源合作推出,https://sky-paint.singularity-ai.com/index.html#/,AI图片插画生成
+Kaiber,图片文字转视频的AI引擎,https://cn.bing.com/search?q=Kaiber&ensearch=1,
+Murf AI,AI文本转语音生成工具,https://murf.ai/,
+Jounce,无限制免费AI文案写作,https://cn.bing.com/search?q=Jounce&ensearch=1,
+Tabnine,AI代码自动补全编程助手,https://www.tabnine.com/,
+Typeframes,AI快速生成高质量的产品介绍视频,https://www.typeframes.com/?ref=ai-bot.cn,
+Mutable AI,人工智能加速软件开发,https://mutable.ai/,
+Reword,AI文章写作,https://cn.bing.com/search?q=Reword&ensearch=1,
+Lemonaid,AI音乐生成工具,https://lemonaid.ai/,
+Debuild,低代码快速开发网页应用,https://debuild.app/,
+FlagStudio,智源研究院推出的AI文本图像绘画生成工具,https://flagstudio.baai.ac.cn/,AI图片插画生成
+Elephas,与Mac、iPhone、iPad集成的个人写作助手,https://cn.bing.com/search?q=Elephas&ensearch=1,
+DreamFace,让图片动起来的AI工具,https://dreamfaceapp.com/,
+Soundraw,AI音乐生成工具,https://soundraw.io/,
+Mootion,AI原生3D动画创作平台,https://mootion.com/?ref=ai-bot.cn,
+NightCafe,AI艺术插画在线生成,https://cn.bing.com/search?q=NightCafe&ensearch=1,AI图片插画生成
+AISEO,AI创作SEO优化友好的文案和文章,https://cn.bing.com/search?q=AISEO&ensearch=1,
+Warp,21世纪的终端工具（内置AI命令搜索）,https://www.warp.dev/,
+Boomy,AI快速生成原创音乐的平台,https://boomy.com/,
+来画,动画和数字人智能生成平台,https://www.laihua.com/?ref=ai-bot.cn,
+niji・journey,魔法般的二次元绘画生成,https://cn.bing.com/search?q=niji・journey&ensearch=1,AI图片插画生成
+LOVO AI,AI人声和文本转语音生成工具,https://lovo.ai/,
+Writer,企业级AI内容创作工具,https://cn.bing.com/search?q=Writer&ensearch=1,
+Fig,下一代命令行工具（内置AI终端命令自动补全）,https://fig.io/,
+奇妙元,AI数字人视频生成平台，由出门问问推出,https://weta365.com/conduct,
+Deep Dream Generator,AI创建生成梦幻般的插画图片，刻画你的梦中场景,https://cn.bing.com/search?q=Deep Dream Generator&ensearch=1,AI图片插画生成
+Typecast,在线AI文字转语音生成工具,https://typecast.ai/,
+SurferSEO,AI SEO大纲和内容优化写作工具,https://cn.bing.com/search?q=SurferSEO&ensearch=1,
+CodeSnippets,AI代码生成、补全、分析、重构和调试,https://codesnippets.ai/,
+无限画,千库网推出的AI图片插画生成工具,https://588ku.com/ai/wuxianhua/Home?ref=ai-bot.cn,AI图片插画生成
+Hocoos,无代码AI智能在线快速创建网站,https://hocoos.com/,
+绘影字幕,一键智能在线自动为视频加字幕,https://huiyingzimu.com/?ref=ai-bot.cn,
+Veed AI Voice Generator,Veed推出的AI语音生成器,https://www.veed.io/tools/text-to-speech-video/ai-voice-generator,
+ProWritingAid,英语写作优化和修改工具,https://prowritingaid.com/,
+BlueWillow,免费的AI图像艺术画生成工具,https://cn.bing.com/search?q=BlueWillow&ensearch=1,AI图片插画生成
+HTTPie AI,AI API开发工具,https://httpie.io/ai,
+Fliki,AI文字转视频并配音,https://cn.bing.com/search?q=Fliki&ensearch=1,
+Clipchamp AI旁白生成器,Clipchamp的文字转语音生成器,https://clipchamp.com/zh-hans/features/ai-voice-over-generator/,
+WordTune,你的个人写作助手和编辑,https://cn.bing.com/search?q=WordTune&ensearch=1,
+Anylang.ai,AI视频翻译并保持音色和口型的同步,https://anylang.ai/?ref=ai-bot.cn,
+Waifu Labs,免费在线AI生成二次元动漫头像,https://cn.bing.com/search?q=Waifu Labs&ensearch=1,AI图片插画生成
+AI Code Reviewer,AI代码检查,https://ai-code-reviewer.com/,
+MetaVoice,AI实时变声工具,https://themetavoice.xyz/,
+Yaara,释放你的写作潜力,https://cn.bing.com/search?q=Yaara&ensearch=1,
+DeepBrain,AI口播视频生成工具,https://cn.bing.com/search?q=DeepBrain&ensearch=1,
+dreamlike.art,免费在线插画生成工具,https://cn.bing.com/search?q=dreamlike.art&ensearch=1,AI图片插画生成
+Speechify,超2000万人都在用的文字转语音朗读器,https://speechify.com/zh-hans/,
+Visual Studio IntelliCode,Visual Studio AI辅助开发,https://visualstudio.microsoft.com/zh-hans/services/intellicode/,
+Copysmith,企业级和电商文案生成,https://cn.bing.com/search?q=Copysmith&ensearch=1,
+Artbreeder,创建令人惊叹的插画和艺术,https://cn.bing.com/search?q=Artbreeder&ensearch=1,AI图片插画生成
+Voicemaker,AI文本到语音生成工具,https://voicemaker.in/,
+Frase,AI SEO内容优化和写作工具,https://cn.bing.com/search?q=Frase&ensearch=1,
+Synthesia,AI视频生成平台,https://cn.bing.com/search?q=Synthesia&ensearch=1,
+HeyCLI,自然语言转义为CLI命令,https://www.heycli.com/,
+Tiamat,国内团队推出的AI艺术画生成工具,https://www.tiamat.world/?ref=ai-bot.cn,AI图片插画生成
+Lumen5,AI将博客文章转换成视频,https://cn.bing.com/search?q=Lumen5&ensearch=1,
+Voice.ai,实时AI变声工具,https://voice.ai/,
+NeuralText,人工智能SEO文章写作助手,https://cn.bing.com/search?q=NeuralText&ensearch=1,
+Vega AI,在线免费AI插画创作平台，支持文生图，图生图，条件生图等多种绘画模式,https://vegaai.net/,AI图片插画生成
+Listnr,AI文本到语音生成器,https://www.listnr.tech/,
+Copymatic,AI文案和内容创作助手,https://cn.bing.com/search?q=Copymatic&ensearch=1,
+Rephrase.ai,AI文字到视频生成,https://cn.bing.com/search?q=Rephrase.ai&ensearch=1,
+万彩微影,AI智能自动生成动画短视频,https://www.animiz.cn/microvideo/?utm_source=ai-bot.cn,
+Wepik AI,Freepik推出的AI文本到图像的在线生成工具,https://cn.bing.com/search?q=Wepik AI&ensearch=1,AI图片插画生成
+Voicemod,AI变声工具,https://www.voicemod.net/ai-voices/,
+TextCortex,AI写作能手,https://cn.bing.com/search?q=TextCortex&ensearch=1,
+录咖,一站式AI音视频总结和转录处理工具,https://reccloud.cn/?ref=ai-bot.cn,
+Craiyon,免费在线文本到图像生成,https://cn.bing.com/search?q=Craiyon&ensearch=1,AI图片插画生成
+WellSaid Labs,AI文本转语音工具,https://wellsaidlabs.com/,
+INK,AI内容营销和SEO助手,https://cn.bing.com/search?q=INK&ensearch=1,
+怪兽AI数字人,人工智能数字人短视频创作和直播平台,https://www.guaishouai.com/?ref=ai-bot.cn,
+稿定AI,一站式AI创作和设计平台,https://www.gaoding.com/utms/70c9b2c822cd42de861fda9367640c0c,
+Notta,AI在线将语音转换成文字,https://www.notta.ai/en,
+万兴爱画,万兴科技推出的AI生成高品质艺术画工具,https://aigc.wondershare.cn/,AI图片插画生成
+Content at Scale,AI SEO长内容创作,https://cn.bing.com/search?q=Content at Scale&ensearch=1,
+团队快剪,闪剪智能专为团队带货打造的AI视频工具,https://teamcut.shanjian.tv/?utm_source=ai-bot.cn,
+通义听悟,阿里推出的AI会议转录工具，万语千言，心领神悟,https://tingwu.aliyun.com/?utm_source=ai-bot.cn,AI会议工具,AI音频工具
+Mark Copy,AI快速创建营销文案,https://cn.bing.com/search?q=Mark Copy&ensearch=1,
+Photosonic,Writesonic推出的AI艺术插画生成工具,https://cn.bing.com/search?q=Photosonic&ensearch=1,AI图片插画生成
+鬼手剪辑GhostCut,多功能AI视频剪辑和视频翻译工具,https://cn.jollytoday.com/?utm_source=ai-bot.cn,
+Coda AI,在线协作平台Coda推出的AI写作和文档助手，类似于Notion AI,https://coda.io/product/ai?utm_source=ai-bot.cn,AI写作工具,AI文档工具
+Astria,可定制的人工智能图像生成,https://cn.bing.com/search?q=Astria&ensearch=1,AI图片插画生成
+模力视频,AI驱动的视频编辑平台,https://www.mooliv.com/?utm_source=ai-bot.cn,
+getimg.ai,在线AI图像和插画创作工具,https://cn.bing.com/search?q=getimg.ai&ensearch=1,AI图片插画生成
+即时AI,即时设计推出的由文本描述生成可编辑的原型设计稿,https://jsai.cc/ai/create?source=ai-bot.cn,
+美间AI,免费AI设计工具助手，智能海报、提案和商品图生成,https://www.meijian.com/ai?slide=1&utm-source=gongjudaquan,
+Gencraft,AI艺术画视频生成工具,https://cn.bing.com/search?q=Gencraft&ensearch=1,
+DreamUp,DeviantArt推出的AI插画生成工具,https://cn.bing.com/search?q=DreamUp&ensearch=1,AI图片插画生成
+FigJam AI,Figma推出的AI白板协作设计工具,https://www.figma.com/figjam/ai/,
+Scribble Diffusion,将草图转变为精美的插画,https://cn.bing.com/search?q=Scribble Diffusion&ensearch=1,AI图片插画生成
+Synthesys,AI虚拟人出镜讲解,https://cn.bing.com/search?q=Synthesys&ensearch=1,
+Microsoft Designer,微软推出的在线设计海报和宣传图工具,https://designer.microsoft.com/,
+Lexica,基于Stable Diffusion的在线插画生成,https://cn.bing.com/search?q=Lexica&ensearch=1,AI图片插画生成
+Veed Video Background Remover,Veed推出的AI视频背景移除工具,https://www.veed.io/zh-CN/tools/video-background-remover,
+Magic Design,在线设计工具Canva推出的AI设计工具,https://www.canva.com/magic-design/,
+Hour One,人工智能文字到视频生成,https://cn.bing.com/search?q=Hour One&ensearch=1,
+Generated Photos,AI人脸头像生成工具,https://cn.bing.com/search?q=Generated Photos&ensearch=1,AI图片插画生成
+美图设计室,AI图像创作和设计平台,https://www.x-design.com/?channel=10026,
+Picsart AI,Picsart推出的AI图片生成器,https://cn.bing.com/search?q=Picsart AI&ensearch=1,AI图片插画生成
+BgRem,无水印AI视频背景移除,https://bgrem.deelvin.com/zh/remove_video_bg/?params=start,
+创客贴设计,AI辅助的智能在线设计工具,https://www.chuangkit.com/?utm_source=ai-bot,
+Imagine by Magic Studio,AI文字到图片生成,https://cn.bing.com/search?q=Imagine by Magic Studio&ensearch=1,AI图片插画生成
+Colourlab.ai,好莱坞也在用的AI视频颜色分级工具,https://colourlab.ai/,
+智绘设计,腾讯推出的智能设计平台，让内容更精彩,https://taishan.qq.com/brand/?ref=ai-bot.cn,
+Cutout.Pro,AI一键视频背景移除,https://www.cutout.pro/zh-CN/remove-video-background,
+neural.love,AI艺术图片生成,https://cn.bing.com/search?q=neural.love&ensearch=1,AI图片插画生成
+135 AI排版,公众号AI图文排版和智能文案生成工具,https://www.135editor.com/ai_editor/?track_id=34&hmmd=ai-bot.cn,
+Colossyan,AI虚拟人出镜视频生成,https://cn.bing.com/search?q=Colossyan&ensearch=1,
+starryai,AI艺术图片生成,https://cn.bing.com/search?q=starryai&ensearch=1,AI图片插画生成
+Wegic,AI网页设计和建站开发工具,https://wegic.ai/?utm_source=ai-bot.cn,
+AVCLabs,AI自动移除视频背景,https://app.avclabs.com/#/,
+Artssy,AI图像生成,https://cn.bing.com/search?q=Artssy&ensearch=1,AI图片插画生成
+Creatie,AI驱动的UI和UX设计工具,https://creatie.ai/?ref=ai-bot.cn,
+ShutterStock AI图片生成,Shutterstock推出的AI图片生成工具,https://cn.bing.com/search?q=ShutterStock AI图片生成&ensearch=1,AI图片插画生成
+Elai.io,AI文本到视频生成工具,https://cn.bing.com/search?q=Elai.io&ensearch=1,
+Playform,专业的高质量AI艺术画生成平台,https://cn.bing.com/search?q=Playform&ensearch=1,AI图片插画生成
+AIDesign,腾讯推出的免费AI Logo在线设计工具,https://ailogo.qq.com/guide/brandname,
+Pictory,AI视频制作工具,https://cn.bing.com/search?q=Pictory&ensearch=1,
+Looka,AI在线设计和生成logo,https://looka.com/,
+Photo Booth by Magic Studio,AI创建个人资料图片,https://cn.bing.com/search?q=Photo Booth by Magic Studio&ensearch=1,AI图片插画生成
+SteveAI,Animaker旗下AI在线视频制作工具,https://cn.bing.com/search?q=SteveAI&ensearch=1,
+鹿班,阿里推出的智能设计商品图和海报的平台,https://luban.aliyun.com/?ref=ai-bot.cn,
+Rask,AI视频本地化解决方案,https://www.rask.ai/?ref=ai-bot.cn,
+Supermeme,AI MEME梗图生成器,https://cn.bing.com/search?q=Supermeme&ensearch=1,AI图片插画生成
+Stylar,一站式AI图像编辑和设计工具,https://www.stylar.ai/?via=ai-bot,
+Fotor,Fotor推出的在线AI图片生成工具,https://www.fotor.com/features/ai-image-generator/,AI图片插画生成
+VoxCraft,AI生成3D模型的工具,https://voxcraft.ai/?utm_source=ai-bot.cn,
+Dream.ai,WOMBO推出的AI艺术画生成工具,https://cn.bing.com/search?q=Dream.ai&ensearch=1,AI图片插画生成
+Pictographic,AI插图资源库和生成平台,https://pictographic.io/?utm_source=ai-bot.cn,
+无界AI,AI生成艺术插画和二次元人物,https://www.wujieai.com/?ref=ai-bot.cn,AI图片插画生成
+Fable Prism,AI动效设计和动画效果制作工具,https://www.fable.app/prism?ref=ai-bot.cn,
+站酷梦笔,国内知名设计社区站酷推出的人工智能插画生成工具,https://www.zcool.com.cn/ailab,AI图片插画生成
+Collov AI,AI室内家居设计生成平台,https://collov.cn/?ref=ai-bot.cn,
+改图鸭AI图片生成,改图鸭AI图片生成,https://www.gaituya.com/aiimg/,AI图片插画生成
+Kittl,AI驱动的平面图形设计工具,https://www.kittl.com/?ref=ai-bot.cn,
+Prodia,AI艺术画生成工具,https://cn.bing.com/search?q=Prodia&ensearch=1,AI图片插画生成
+墨刀AI,墨刀推出的AI产品原型设计助手,https://modao.cc/feature/ai.html?utm_source=ai-bot.cn,
+Lucidpic,AI生成高质量人像照片,https://cn.bing.com/search?q=Lucidpic&ensearch=1,AI图片插画生成
+Krea AI,AI创意设计平台，实时AI图像生成和编辑,https://www.krea.ai/?ref=ai-bot.cn,
+AI Photos,AI图片艺术美化,https://cn.bing.com/search?q=AI Photos&ensearch=1,AI图片插画生成
+Ilus AI,AI插画插图生成工具,https://ilus.ai/?utm_source=ai-bot.cn,
+Recraft AI,免费无限AI画板，生成高质量矢量艺术画、图标、3D图片和插画,https://www.recraft.ai/?ref=ai-bot.cn,
+酷家乐AI,功能强大的AI家居设计软件,https://www.kujiale.cn/activities/AI-kujiale?ref=ai-bot.cn,
+Pixso AI,国产在线设计工具Pixso的内置AI助手，支持AI文生图、AI对话、AI设计等,https://pixso.cn/?utm_source=ai-bot.cn,
+Framer AI,Framer推出的AI网站自动设计、生成和上线,https://www.framer.com/ai?utm_source=ai-bot.cn,
+MasterGo AI,国产产品设计工具MasterGo推出的智能UI设计助手,https://mastergo.com/upcoming-ai/apply?utm_source=ai-bot.cn,
+Motiff 妙多,猿辅导旗下推出的AI界面设计工具,https://motiff.com/?utm_source=ai-bot.cn,
+Pimento,人工智能驱动的设计创意和视觉参考平台,https://www.pimento.design/?ref_id=TU7BJC0X4,
+Logo Diffusion,AI驱动的Logo和标志生成工具,https://logodiffusion.com/?ref=ai-bot.cn,
+LogoliveryAI,免费的AI Logo生成器，提供SVG矢量格式,https://logolivery.ai/?utm_source=ai-bot.cn,
+Realibox AI,AI免费将草图/模型生成3D渲染图,https://www.realibox.com/product/ai?utm_source=ai-bot.cn,
+Vectorizer.AI,AI一键将位图转换为矢量图片,https://vectorizer.ai/?utm_source=ai-bot.cn,
+模袋云AI,建筑AI创作平台，专注于大型建筑、小型住宅、室内设计、景观的出图和AI模型训练,https://www.modaiyun.com/mdy/ai?utm_source=ai-bot.cn,
+Vizcom,AI渲染转化手绘图为产品设计图,https://www.vizcom.ai/,
+Dora AI,AI在线生成精美3D动画的网站,https://www.dora.run/ai?ref=ai-bot.cn,
+Designs.ai,AI设计工具,https://designs.ai/,
+Galileo AI,AI高保真原型设计,https://www.usegalileo.ai/,
+Spline AI,Spline推出的AI生成3D物体、动画、材质,https://spline.design/ai,
+千图设计室AI海报,免费批量生成在线可编辑的AI海报工具,https://hihaibao.com?from=ai-bot,
+illostrationAI,AI插画生成，low poly、3D、矢量、logo、像素风、皮克斯等风格,https://www.illostration.com/,
+Uizard,AI网页、App和UI设计,https://uizard.io/ai-design/,
+Luma AI,AI 3D捕捉、建模和渲染,https://lumalabs.ai/,
+图宇宙,高品质AI智能设计平台,https://www.nolibox.com/introduction?ref=ai-bot.cn,
+阿里云智能logo设计,阿里云推出的智能Logo设计,https://ai-bot.cn,
+Meshy,AI快速从文本或图像生成3D模型,https://www.meshy.ai/?ref=ai-bot.cn,
+Fabrie AI,在线白板协作平台Fabrie推出的AI设计助手，支持多种渲染模式,https://kebuxi.datasink.sensorsdata.cn/r/dF,
+GPTZero,超过百万人都在用的免费AI内容检测工具,https://gptzero.me/,
+StudyCorgi ChatGPT Detector,免费的检测论文是否由ChatGPT生成的工具,https://studycorgi.com/free-writing-tools/chat-gpt-detector/,
+Poly,AI生成3D材质,https://withpoly.com/browse/textures,
+AISEO AI Content Detector,AISEO推出的AI内容检测器,https://aiseo.ai/tools/ai-content-detector.html,
+Proofig,AI检测科研图像是否造假抄袭,https://www.proofig.com/?ref=ai-bot.cn,
+Illustroke,AI SVG矢量插画生成工具,https://illustroke.com/,
+Writecream AI Content Detector,Writecream推出的AI内容检测工具,https://www.writecream.com/ai-content-detector/,
+Eva Design System,基于深度学习的色彩生成工具,https://colors.eva.design/,
+Smodin AI Content Detector,多语种AI内容检测工具,https://smodin.io/ai-content-detector,
+Color Wheel,AI灰度logo或插画上色工具,https://brandmark.io/color-wheel/,
+Sapling AI Content Detector,Sapling.ai推出的免费在线AI内容检测工具,https://sapling.ai/utilities/ai-content-detector,
+Huemint,AI调色生成工具,https://huemint.com/,
+GPT Detector,在线检查文本是否由GPT-3或ChatGPT生成,https://x.writefull.com/gpt-detector,
+ColorMagic,AI调色板生成工具,https://www.obviously.ai/,
+AI Content Detector,Writer推出的AI内容检测工具,https://writer.com/ai-content-detector/,
+Logomaster.ai,AI Logo生成工具,https://logomaster.ai/,
+Originality.AI,原创度和AI内容检测,https://originality.ai/,
+Magician,Figma插件，AI生成图标、图片和UX文案,https://magician.design/,
+CopyLeaks,AI内容检测和分级,https://copyleaks.com/,
+Appicons AI,AI生成精美App图标,https://appicons.ai/,
+Winston AI,强大的AI内容检测解决方案,https://gowinston.ai/,
+IconifyAI,AI App图标生成器,https://www.iconifyai.com/,
+CheckforAI,免费在线检测AI内容,https://ai-bot.cn,
+Khroma,AI调色盘生成工具,https://www.khroma.co/,
+Alpaca,将生成式AI集成到Photoshop图像设计中,https://www.getalpaca.io/?ref=ai-bot.cn,
+羚珑,京东推出的商品图智能设计小工具,https://ling.jd.com/,AI商品图生成,AI设计工具
+灵动AI,专业的AI商品图生成工具,https://www.redoon.cn/?ref=ai-bot.cn,AI商品图生成,AI设计工具
+PhotoMagic,AI快速生成商拍图片,https://www.photomagic.cn/?utm_source=aigongjuji,AI商品图生成,AI设计工具
+AI速配（AiSoup）,AI产品图背景融合、抠图、放大、抹除、修复工具,https://www.aisoup.cn/?ref=ai-bot.cn,AI商品图生成,AI图片背景移除
+Pebblely,AI产品图精美背景添加,https://pebblely.com/,AI商品图生成
+Mokker AI,AI产品图添加背景,https://mokker.ai/,AI商品图生成
+花生图像,AI电商产品图生成和背景抠图工具,https://www.hsphoto.cn/?utm_source=ai-bot.cn,AI商品图生成
+Let’s Enhance,AI在线免费放大图片并保持图像质量,https://letsenhance.io/?utm_source=ai-bot.cn,AI图片无损放大
+Icons8 Smart Upscaler,Icons8出品的AI图片无损放大工具,https://icons8.com/upscaler,AI图片无损放大
+ClipDrop Image Upscaler,ClipDrop出品的AI图片放大工具,https://clipdrop.co/image-upscaler,AI图片无损放大
+Img.Upscaler,免费的AI图片放大工具,https://imgupscaler.com/,AI图片无损放大
+Fotor AI Image Upscaler,Fotor推出的AI图片放大工具,https://www.fotor.com/image-upscaler/,AI图片无损放大
+Zyro AI Image Upscaler,Zyro出品的人工智能图片放大工具,https://zyro.com/tools/image-upscaler,AI图片无损放大
+Media.io AI Image Upscaler,Media.io推出的AI图片放大工具,https://www.media.io/image-upscaler.html,AI图片无损放大
+Upscale.media,AI图片放大和分辨率修改,https://www.upscale.media/zh,AI图片无损放大
+Nero Image Upscaler,AI免费图片无损放大,https://ai.nero.com/image-upscaler,AI图片无损放大
+VanceAI Image Resizer,VanceAI推出的在线图片尺寸调整工具,https://vanceai.com/image-resizer/,AI图片无损放大
+PhotoAid Image Upscaler,PhotoAid出品的免费在线人工智能图片放大工具,https://photoaid.com/en/tools/ai-image-enlarger,AI图片无损放大
+Upscalepics,在线图片放大工具,https://upscalepics.com/,AI图片无损放大
+Image Enlarger,AI无损放大图片,https://magicstudio.com/zh/enlarger,AI图片无损放大
+Pixelhunter,AI智能调整图片尺寸用于社交媒体平台发帖,https://pixelhunter.io/,AI图片无损放大
+Bg Eraser,图片物体抹除和清理,https://bgeraser.com/,AI图片物体抹除
+SnapEdit,AI移除图片中的任何物体,https://snapedit.app/,AI图片物体抹除
+Cleanup.pictures,智能移除图片中的物体、文本、污迹、人物或任何不想要的东西,https://cleanup.pictures/,AI图片物体抹除
+Cutout.Pro Retouch,Cutout.Pro推出的AI图片物体涂抹去除工具,https://www.cutout.pro/zh-CN/image-retouch-remove-unwanted-objects,AI图片物体抹除
+Magic Eraser,AI移除图片中不想要的物体,https://magicstudio.com/zh/magiceraser,AI图片物体抹除
+WatermarkRemover,AI智能删除照片中的水印,https://www.watermarkremover.io/zh,AI图片物体抹除
+AiPPT,AI快速生成高质量PPT,https://www.aippt.cn/?utm_type=Navweb&utm_source=ai-bot&utm_page=aippt&utm_plan=ppt&utm_unit=AIPPT&utm_keyword=50608,AI幻灯片和演示
+比格AI PPT,高效的AI PPT生成工具,https://bigesj.com/ai-ppt/?hmmd=aibot,AI幻灯片和演示
+iSlide AI,PPT一键生成+AI个性化编辑,https://www.islide.cc/ai-beta?mtm_campaign=ai-bot,AI幻灯片和演示
+万知,零一万物推出的一站式AI文档阅读和PPT创作工作台,https://www.wanzhi01.com/?ref=ai-bot.cn,AI幻灯片和演示,AI文档工具
+办公小浣熊,商汤科技推出的AI数据分析助手,https://raccoon.sensetime.com/?utm_source=BLJUNE01,AI表格数据处理
+美图AI PPT,美图秀秀推出的免费在线AI生成PPT设计工具,https://www.x-design.com/ppt/?from=ai-bot.cn,AI幻灯片和演示
+vika维格云,智能多维表格和数据生产力平台,https://vika.cn/?home=1&utm_source=ai-bot.cn,AI表格数据处理
+Gamma App,AI幻灯片演示生成工具,https://gamma.app/,AI幻灯片和演示
+ChatPPT,AI一键对话生成PPT，智能排版美化,https://www.chat-ppt.com/?channel=ai-botAD,AI幻灯片和演示
+酷表ChatExcel,北大团队开发的通过聊天来操作Excel表格的AI工具,https://chatexcel.com/,AI表格数据处理
+Decktopus AI,AI驱动的的在线演示文稿生成器,https://www.decktopus.com/,AI幻灯片和演示
+Ajelix,处理Excel和Google Sheets表格的AI工具,https://ajelix.com/,AI表格数据处理
+WPS AI,WPS推出的AI办公助手，已免费开放,https://ai.wps.cn/?utm_source=ai-bot.cn,AI文档工具,热门AI办公工具
+Tome,AI创作叙事性幻灯片,https://tome.app/,AI幻灯片和演示
+Sheet+,Excel和Google Sheets表格AI处理工具,https://sheetplus.ai/,AI表格数据处理
+讯飞智文,科大讯飞推出的免费AI PPT生成工具,https://zhiwen.xfyun.cn/?utm_source=ai-bot.cn,AI幻灯片和演示
+通义智文,基于通义大模型的AI阅读助手，可智能阅读网页、论文、图书和文档,https://tongyi.aliyun.com/zhiwen#/?ref=ai-bot.cn,AI文档工具
+ExcelFormulaBot,AI将指令转换成Excel的函数公式,https://excelformulabot.com/,AI表格数据处理
+百度文库AI助手,基于文心一言的一站式智能文档助手,https://wenku.baidu.com/ndlaunch/browse/chat?utm_source=ai-bot.cn,AI文档工具
+ChatBA,AI幻灯片生成工具,https://www.chatba.com/,AI幻灯片和演示
+FormX.ai,AI自动从表格和文档中提取数据,https://www.formx.ai/,AI表格数据处理
+字语智能,一站式智能Office内容创作平台,https://getgetai.com/?from=AIGJDH,AI文档工具
+Rows,集成了AI功能的在线表格处理工具,https://rows.com/,AI表格数据处理
+Powerpresent AI,AI创建精美的演示稿,https://powerpresent.ai/,AI幻灯片和演示
+星火文档问答,基于讯飞星火大模型的AI文档和知识库问答助手,https://chatdoc.xfyun.cn/?from=ai-bot.cn,AI文档工具
+Excelly-AI,将文本转换成Excel或Google Sheets公式,https://excelly-ai.io/index.html,AI表格数据处理
+beautiful.ai,AI创建展示幻灯片,https://www.beautiful.ai/,AI幻灯片和演示
+轻竹办公,在线智能生成和设计PPT的AI工具,https://qzoffice.com?from=aibot,AI幻灯片和演示
+PMAI,面向产品经理的AI助手, https://www.pm-ai.cn/?utm_source=NoKVb4O,AI文档工具
+SheetGod,BoloForms推出的AI Excel公式生成工具,https://www.boloforms.com/sheetgod/,AI表格数据处理
+PDF.ai,AI PDF文档阅读工具，智能文档总结摘要,https://pdf.ai/?via=ai-bot,AI文档工具
+Excel Formularizer,AI将文本输入转换为Excel公式处理,https://excelformularizer.com/,AI表格数据处理
+Chronicle,AI高颜值演示文稿创建,https://chroniclehq.com/,AI幻灯片和演示
+司马阅AI文档,AI文档阅读分析工具,https://smartread.cc?utm_source=ai-bot.cn,AI文档工具
+Presentations.AI,演示文档版的ChatGPT,https://www.presentations.ai/,AI幻灯片和演示
+知我AI,智能阅读机器人，AI总结文档、网页、视频、播客等,https://knowme.xiaoduoai.com/?ref=ai-bot.cn,AI文档工具
+SlidesAI,AI快速创建演示幻灯片,https://www.slidesai.io/,AI幻灯片和演示
+星火科研助手,科大讯飞联合中科院推出的AI科研文献助手,https://paper.iflytek.com/?ref=ai-bot.cn,AI文档工具
+歌者AI,彩漩PPT推出的AI PPT生成工具,https://gezhe.caixuan.cc/?ref=ai-bot.cn,AI幻灯片和演示
+印象AI,印象笔记推出的AI知识和信息管理功能,https://www.yinxiang.com/about/yxai-yxbj/,AI文档工具
+auxi,功能强大的PowerPoint AI插件,https://www.auxi.ai/,AI幻灯片和演示
+MindShow,国内独立开发者开发的输入内容自动生成演示工具,https://www.mindshow.fun/?ref=ai-bot.cn,AI幻灯片和演示
+Craft AI Assistant,在线文档工具Craft推出的AI文档和创作助手,https://www.craft.do/?utm_source=ai-bot.cn,AI文档工具
+Humata,基于GPT的AI文档分析、阅读和问答工具,https://www.humata.ai/,AI文档工具
+ChatDOC,基于ChatGPT的文档阅读、提取、总结、摘要的工具,http://chatdoc.com,AI文档工具
+PandaGPT,AI文档要点总结工具,https://www.pandagpt.io/,AI文档工具
+Rossum.ai,现代化的AI文档处理工具,https://rossum.ai/,AI文档工具
+Super AI,AI复杂文档自动识别处理转换,https://super.ai/,AI文档工具
+ProcessOn,在线AI流程图和思维导图制作工具,https://www.processon.com/?ref=ai-bot.cn,AI思维导图
+亿图脑图,亿图脑图AI思维导图助手,https://www.edrawsoft.cn/mindmaster/?AI-bot,AI思维导图
+TreeMind树图,新一代AI智能思维导图,https://shutu.cn/?from=aibot ,AI思维导图
+Mapify,Xmind推出的AI思维导图生成工具,https://mapify.so/cn/?utm_source=ai-bot.cn,AI思维导图
+小画桌,在线协作白板工具，内置AIGC功能,https://www.xiaohuazhuo.com/?ref=ai-bot.cn,AI思维导图
+印象图记,印象AI加持的在线思维导图工具,https://www.yinxiang.com/product/evermind/,AI思维导图
+知犀AI,知犀推出的AI思维导图生成工具,https://www.swdt.com/?ref=ai-bot.cn,AI思维导图
+Xmind Copilot,Xmind AI思维导图助手,https://xmind.ai/?ref=ai-bot.cn,AI思维导图
+妙办AI画图工具,AI免费一键生成流程图、思维导图,https://imiaoban.com/work/AIht?source=35261,AI思维导图
+GitMind思乎,AI驱动的免费思维导图工具,https://gitmind.cn/?ref=ai-bot.cn,AI思维导图
+ChatMind,与AI对话生成思维导图,https://www.chatmind.tech/?ref=ai-bot.cn,AI思维导图
+Whimsical,Whimsical推出的AI思维导图工具,https://whimsical.com/ai-mind-maps,AI思维导图
+AmyMind,开箱即用的在线AI思维导图工具,https://amymind.com/?ref=ai-bot.cn,AI思维导图
+Taskade,高颜值AI大纲和思维导图生成,https://www.taskade.com/,AI思维导图
+Miro AI,在线白板协作工具推出的AI功能，Beta测试中,https://miro.com/mind-map/,AI思维导图
+博思AI白板,博思AI白板，AI自动生成文字和思维导图,https://boardmix.cn/ai-whiteboard/?ref=ai-bot.cn,AI思维导图
+Ayoa Ultimate,AI思维导图和头脑风暴工具,https://www.ayoa.com/ultimate/,AI思维导图
+BetterYeah AI,企业AI应用和助手构建平台,https://www.betteryeah.com/?utm_source=ai-bot.cn,AI效率提升
+小微助手,微信推出的桌面端AI效率助手工具,https://xiaowei.weixin.qq.com/next?utm_source=ai-bot.cn,AI效率提升
+奇妙问,企业AI数字员工生成平台,https://aiask365.com/?utm_source=ai-bot.cn,AI效率提升
+影刀AI Power,面向企业的无代码AI开发和集成平台,https://www.yingdao.com/ai-power/?utm_source=ai-bot.cn,AI效率提升
+通答AI,企业AI数字员工生成平台,https://www.tongdaai.com/?utm_source=ai-bot.cn,AI效率提升
+靠谱AI,无代码AI机器人创建平台,https://www.kaopuai.com/?utm_source=ai-bot.cn,AI效率提升
+Einstein Copilot,Salesforce推出的CRM系统AI对话助手,https://www.salesforce.com/einsteincopilot?ref=ai-bot.cn,AI效率提升
+Anakin.ai,一站式无代码AI应用构建平台,https://anakin.ai/zh-cn?ref=ai-bot.cn,AI效率提升
+Zapier AI,Zapier推出的AI自动化集成功能,https://zapier.com/ai?utm_source=ai-bot.cn,AI效率提升
+绘蛙,阿里推出的AI电商营销工具，可生成图片和文案,https://www.ihuiwa.com/?ref=ai-bot.cn,AI商品图生成,AI效率提升
+云一朵,百度网盘最新推出的智能助理,https://pan.baidu.com/aipan/welcome,AI效率提升,AI文档工具
+Monica,ChatGPT驱动的Chrome浏览器AI助手插件,http://monica.im,AI效率提升
+Merlin,基于ChatGPT的Chrome浏览器扩展，浏览任意网页时利用GPT,https://merlin.foyer.work/,AI效率提升
+飞书妙记,飞书智能会议纪要和快捷语音识别转文字,https://www.feishu.cn/product/minutes,AI会议工具
+Raycast AI,Raycast推出的Mac AI助手，智能写作、编程、回答问题等,https://www.raycast.com/ai,AI效率提升
+讯飞听见,科大讯飞推出的AI智能会议系统，实时字幕、实时翻译、自动生成会议记录,https://meeting.iflyrec.com/,AI会议工具
+麦耳会记,思必驰推出的AI会议助手，语音转文字、字幕同传、AI摘要,https://work.duiopen.com,AI会议工具
+Timely,AI时间管理跟踪软件,https://timelyapp.com/,AI效率提升
+职徒简历,智能简历制作软件，基于GPT的简历优化和简历代写,https://www.52cv.com,AI效率提升
+Fireflies.ai,AI会议转录和会议纪要生成工具,https://fireflies.ai/,AI会议工具
+Otter.ai,AI会议内容生成和实时转录,https://otter.ai/,AI会议工具
+Noty.ai,ChatGPT驱动的AI会议转录工具,https://noty.ai/,AI会议工具
+Airgram,自动会议笔记和总结的AI助手,https://www.airgram.io,AI会议工具
+FlowGPT,ChatGPT指令大全,https://flowgpt.com/,
+Stable Diffusion Prompt Book,OpenArt推出的针对Stable Diffusion指令的手册,https://openart.ai/promptbook,
+PromptHero,发现Stable Diffusion、ChatGPT和Midjourney的提示用语,https://prompthero.com/,
+ClickPrompt,专为 Prompt 编写者设计的工具,https://www.clickprompt.org/zh-CN/,
+Generrated,超过7480个基于DALL·E 2的图片生成指令语句,https://generrated.com/,
+PublicPrompts,免费高质量的Prompts集合,https://publicprompts.art/,
+Snack Prompt,探索最新的ChatGPT语义提示词,https://snackprompt.com/?ref=ai-bot.cn,
+提示工程指南,免费开源的提示工程指南，GitHub标星超3万,https://www.promptingguide.ai/zh,
+AIPRM,主要针对于SEO和SaaS文案写作的ChatGPT Prompts浏览器扩展,https://www.aiprm.com/,
+绘AI,AI绘画提示词分享平台,https://www.ai016.com/,
+MJ Prompt Tool,Midjourney Prompt帮助工具,https://prompt.noonshot.com/,
+Visual Prompt Builder,可视化AI提示语选择和搭建,https://tools.saxifrage.xyz/prompt,
+ChatGPT Prompt Genius,免费开源的ChatGPT Prompt浏览器扩展,https://github.com/benf2004/ChatGPT-Prompt-Genius,
+PromptBase,AI Prompts集合市场,https://promptbase.com/,
+PromptVine,ChatGPT Prompts和应用,https://promptvine.com/,
+Awesome ChatGPT Prompts,ChatGPT Prompts集合,https://prompts.chat/,
+Learning Prompt,免费的 Prompt Engineering 教程（中文开源）,https://learningprompt.wiki/,
+ChatGPT Shortcut,开源的简单易用的ChatGPT快捷指令，让生产力加倍！,https://www.aishort.top/,
+词魂,AIGC精品提示词库,https://icihun.com/?ref=ai-bot.cn,
+DeepL翻译,准确的人工智能翻译工具,https://www.deepl.com/translator,
+象寄翻译,AI图片和视频翻译神器，支持多种语言的翻译,https://www.xiangjifanyi.com/console/register-invite/741be04feb30bf16,
+网易见外,网易推出的AI智能翻译平台，支持音视频、文档、图片、字幕等翻译,https://sight.youdao.com/?utm_source=ai-bot.cn,
+阿里翻译,阿里巴巴达摩院推出的多领域多语种的在线机器翻译,https://translate.alibaba.com/?ref=ai-bot.cn,
+火山翻译,字节跳动推出的智能翻译工具,https://translate.volcengine.com/,
+必应翻译,微软必应推出的翻译工具,https://www.bing.com/translator/,
+Google翻译,Google免费提供的上百种语言智能翻译工具,https://translate.google.com/,
+百度翻译,200种语言互译、沟通全世界！,https://fanyi.baidu.com/,
+腾讯翻译君,你免费的随身翻译,https://fanyi.qq.com/,
+TranSmart,腾讯AI Lab推出的一款AI辅助翻译产品,https://transmart.qq.com/zh-CN/index,
+讯飞智能翻译,科大讯飞推出的人工智能翻译平台,https://fanyi.xfyun.cn/console/trans/text,
+搜狗翻译,你的贴身智能翻译专家,https://fanyi.sogou.com/text,
+彩云小译,兼具中日英同声传译、文档翻译和网页翻译的智能翻译工具,https://fanyi.caiyunapp.com/#/,
+百度AI同传助手,中英文音视频同传字幕工具,https://fanyi.baidu.com/appdownload/download.html?tab=helper&fr=pcproduct,
+金山快译,金山WPS推出的在线翻译平台,https://kuaiyi.wps.cn/txt-translate,
+秘塔AI搜索,秘塔科技推出的AI搜索引擎，无广告直达结果,https://metaso.cn/?s=aibot,
+开搜AI,面向大众的免费AI问答搜索引擎,https://kaisouai.com/?from=ai-bot,
+博查AI搜索,支持多模型的AI搜索引擎,https://bochaai.com/?ref=ai-bot.cn,
+Flowith,节点交互式AI搜索和对话工具,https://flowith.io/invitation?code=L0D5I5,
+天工AI搜索,昆仑万维最新推出的结合大模型的AI搜索引擎,https://search.tiangong.cn/?utm_source=ai-bot.cn,
+Genspark,基于智能体的AI搜索引擎,https://www.genspark.ai/?utm_source=ai-bot.cn,
+Devv,面向程序员的新一代AI搜索引擎,https://devv.ai/zh?ref=ai-bot.cn,
+Globe Explorer,结构化AI知识搜索引擎,https://explorer.globe.engineer/?utm_source=ai-bot.cn,
+Reportify,AI投资研究问答搜索引擎,https://reportify.cc/?ref=ai-bot.cn,
+Phind,专为开发者设计的AI搜索引擎,https://www.phind.com/?utm_source=ai-bot.cn,
+iAsk AI,快速准确的AI搜索引擎,https://iask.ai/?utm_source=ai-bot.cn,
+Consensus,AI科研学术搜索引擎,https://consensus.app/?utm_source=ai-bot.cn,
+Komo Search,简洁直观的AI搜索引擎,https://komo.ai/?utm_source=ai-bot.cn,
+Searcholic,AI驱动的电子书和文档搜索引擎,https://searcholic.com/?utm_source=ai-bot.cn,
+Andi,对话式人工智能搜索引擎,https://andisearch.com/?utm_source=ai-bot.cn,
+Songtell,AI驱动的音乐百科搜索引擎,https://www.songtell.com/?utm_source=ai-bot.cn,
+ThinkAny,新时代的AI搜索引擎,https://thinkany.ai/zh?utm_source=ai-bot.cn,
+Miku,快速精准的AI搜索引擎,https://www.hellomiku.com/?utm_source=ai-bot.cn,
+MMLU,大规模多任务语言理解基准,https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu,
+Open LLM Leaderboard,Hugging Face推出的开源大模型排行榜单,https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard,
+C-Eval,一个全面的中文基础模型评估套件,https://cevalbenchmark.com/static/leaderboard_zh.html,
+FlagEval,智源研究院推出的FlagEval（天秤）大模型评测平台,https://flageval.baai.ac.cn/#/trending,
+SuperCLUE,中文通用大模型综合性测评基准,https://www.cluebenchmarks.com/static/superclue.html,
+OpenCompass,上海人工智能实验室推出的大模型开放评测体系,https://opencompass.org.cn/leaderboard-llm,
+CMMLU,一个综合性的大模型中文评估基准,https://github.com/haonan-li/CMMLU/,
+MMBench,全方位的多模态大模型能力评测体系,https://mmbench.opencompass.org.cn/leaderboard,
+HELM,斯坦福大学推出的大模型评测体系,https://crfm.stanford.edu/helm/latest/,
+Chatbot Arena,以众包方式进行匿名随机对战的LLM基准平台,https://chat.lmsys.org/,
+LLMEval3,由复旦大学NLP实验室推出的大模型评测基准,http://llmeval.com/index,
+H2O EvalGPT,H2O.ai推出的基于Elo评级方法的大模型评估系统,https://evalgpt.ai/,
+PubMedQA,生物医学研究问答数据集和模型得分排行榜,https://pubmedqa.github.io/,
+通义法睿,阿里推出的免费AI法律顾问助手,https://tongyi.aliyun.com/farui?utm_source=ai-bot.cn,
+法行宝,百度推出的免费AI法律助手,https://ailegal.baidu.com/?utm_source=ai-bot.cn,
+ChatLaw,北大开源的法律大模型和助手,https://chatlaw.cloud/lawchat/#/?utm_source=ai-bot.cn,
+得理法搜,AI法律智能检索系统,https://www.delilegal.com/search?utm_source=ai-bot.cn,
+海瑞智法,一站式AI法律咨询助手,https://www.hairuilegal.com/?utm_source=ai-bot.cn,
+合同嗖嗖,专业的AI法律合同生成工具,https://contract.yoo-ai.com/?utm_source=ai-bot.cn,
