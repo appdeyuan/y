@@ -3,7 +3,7 @@
 # 使用环境变量生成config.json
 cat > /usr/share/nginx/html/config.json << EOF
 {
-  "SITE_TITLE": "${SITE_TITLE:-XG🧭导航}",
+  "SITE_TITLE": "${SITE_TITLE:-甜甜导航}",
   "SITE_DESCRIPTION": "${SITE_DESCRIPTION:-一个简洁、纯静态的个人导航站}",
   "COPYRIGHT": "${COPYRIGHT:-© 2025 <a href='https://github.com/verkyer/xg-nav' target='_blank'>XG-Nav</a>}",
   "CARD_CONTENT": ${CARD_CONTENT:-1},
