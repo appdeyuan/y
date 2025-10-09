@@ -19,7 +19,7 @@ COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
 
 # 环境变量定义
-ENV SITE_TITLE="XG🧭导航" \
+ENV SITE_TITLE="甜甜导航" \
     SITE_DESCRIPTION="一个简洁、纯静态的个人导航站" \
     COPYRIGHT="© 2025 <a href='https://github.com/verkyer/xg-nav' target='_blank'>XG-Nav</a>" \
     CARD_CONTENT=0 \
